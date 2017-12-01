@@ -1,0 +1,455 @@
+beer_name,brewery_name,beer_type,simple_style,beer_abv,beer_ibu,venue_name,venue_city,venue_state,venue_country,venue_lat,venue_lng,rating_score,created_at,brewery_country,brewery_city,brewery_state,week,month
+Truth,Rhinegeist Brewery,IPA - American,American IPA,7.2,75,Rhinegeist Brewery,Cincinnati,OH,United States,39.1172,-84.5201,3.0,2015-10-06 20:04:06,United States,Cincinnati,OH,0,10
+Hugh,Rhinegeist Brewery,Hefeweizen,Hefeweizen,5.4,10,Rhinegeist Brewery,Cincinnati,OH,United States,39.1172,-84.5201,3.5,2015-10-06 20:05:38,United States,Cincinnati,OH,0,10
+Uncle,Rhinegeist Brewery,English Mild Ale,English Mild Ale,3.8,17,Rhinegeist Brewery,Cincinnati,OH,United States,39.1172,-84.5201,3.25,2015-10-06 20:06:24,United States,Cincinnati,OH,0,10
+Rapunzel,Arcadia Brewing Company,Pale Wheat Ale - American,Pale Wheat Ale - American,5.8,65,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,3.5,2015-10-09 22:05:40,United States,Kalamazoo,MI,0,10
+Pilsner Urquell,Plzeňský Prazdroj,Pilsner - Czech,Pilsner,4.4,40,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,2.75,2015-10-09 22:06:50,Czech Republic,Plzeň,Plzeň,0,10
+Weihenstephaner Original,Bayerische Staatsbrauerei Weihenstephan,Lager - Helles,Lager - Helles,5.1,21,,,,,,,4.0,2015-10-09 22:11:22,Germany,85354 Freising,BY,0,10
+White Rajah,The Brew Kettle,IPA - American,American IPA,6.8,70,DAAP School of Planning,Cincinnati,OH,United States,39.1345,-84.51899999999999,,2015-10-09 22:15:20,United States,Strongsville,OH,0,10
+Edmund Fitzgerald,Great Lakes Brewing Company,Porter - American,Porter,5.8,37,DAAP School of Planning,Cincinnati,OH,United States,39.1345,-84.51899999999999,3.0,2015-10-09 22:15:50,United States,Cleveland,OH,0,10
+"The Kimmie, The Yink and The Holy Gose Ale",Anderson Valley Brewing Company,Sour - Gose,Sour,4.2,8,DAAP School of Planning,Cincinnati,OH,United States,39.1345,-84.51899999999999,,2015-10-09 22:16:47,United States,Boonville,CA,0,10
+Leffe Blonde / Blond,Abbaye de Leffe,Blonde Ale - Belgian Blonde / Golden,Blonde Ale,6.6,20,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,3.5,2015-10-09 22:17:36,Belgium,Dinant,Namur,0,10
+Best Brown Ale,Bell's Brewery,Brown Ale - American,Brown Ale,5.8,0,DAAP School of Planning,Cincinnati,OH,United States,39.1345,-84.51899999999999,3.75,2015-10-09 22:19:20,United States,Comstock,MI,0,10
+Stone RuinTen Triple IPA,Stone Brewing,IPA - Triple,Imperial IPA,10.8,110,DAAP School of Planning,Cincinnati,OH,United States,39.1345,-84.51899999999999,3.0,2015-10-09 22:20:37,United States,Escondido,CA,0,10
+Two Hearted Ale,Bell's Brewery,IPA - American,American IPA,7.0,55,DAAP School of Planning,Cincinnati,OH,United States,39.1345,-84.51899999999999,3.5,2015-10-09 22:21:38,United States,Comstock,MI,0,10
+Prodigal,Ei8ht Ball Brewing,Pale Ale - American,Pale Ale,6.5,40,DAAP School of Planning,Cincinnati,OH,United States,39.1345,-84.51899999999999,3.0,2015-10-09 22:22:54,United States,Bellevue,KY,0,10
+Natural Light,Anheuser-Busch,Lager - American Light,Lager - American Light,4.2,0,,,,,,,0.25,2015-10-10 01:45:08,United States,St. Louis,MO,0,10
+Sparky,Braxton Brewing Company,Pale Wheat Ale - American,Pale Wheat Ale - American,5.5,40,Keystone Bar & Grill - Clifton,Cincinnati,OH,United States,39.1284,-84.51700000000001,3.25,2015-10-13 16:25:45,United States,Covington,KY,1,10
+Milds Davis,Blank Slate Brewing Co.,English Mild Ale,English Mild Ale,4.2,17,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.0,2015-10-13 16:48:34,United States,Cincinnati,OH,1,10
+Tecate,Cervecería Cuauhtémoc Moctezuma S.A. de C.V.,Lager - North American Adjunct,Lager - North American Adjunct,4.5,14,Big Star,Chicago,IL,United States,41.9092,-87.6773,2.75,2015-10-16 17:28:11,Mexico,Monterrey,Nuevo León,1,10
+Pumking,Southern Tier Brewing Company,Pumpkin / Yam Beer - Imperial,Pumpkin / Yam Beer - Imperial,8.6,30,Bangers & Lace,Chicago,IL,United States,41.9034,-87.6703,3.25,2015-10-16 17:37:20,United States,Lakewood,NY,1,10
+311 Amber Ale,Nebraska Brewing Company,Red Ale - American Amber / Red,Red Ale,5.5,31,Bangers & Lace,Chicago,IL,United States,41.9034,-87.6703,3.5,2015-10-16 17:39:36,United States,Papillion,NE,1,10
+Bottled Blonde,Upland Brewing Company,Blonde Ale,Blonde Ale,4.9,22,Upland Brewing Company Brewpub,Bloomington,IN,United States,39.1734,-86.5376,4.0,2015-10-17 11:51:10,United States,Bloomington,IN,1,10
+Upland Wheat Ale,Upland Brewing Company,Witbier,Witbier,4.7,15,Upland Brewing Company Brewpub,Bloomington,IN,United States,39.1734,-86.5376,3.25,2015-10-17 11:59:28,United States,Bloomington,IN,1,10
+Helios Pale Ale,Upland Brewing Company,Pale Ale - American,Pale Ale,4.9,44,Upland Brewing Company Brewpub,Bloomington,IN,United States,39.1734,-86.5376,3.75,2015-10-17 12:00:49,United States,Bloomington,IN,1,10
+Dragonfly IPA,Upland Brewing Company,IPA - American,American IPA,6.7,65,Upland Brewing Company Brewpub,Bloomington,IN,United States,39.1734,-86.5376,3.0,2015-10-17 12:06:30,United States,Bloomington,IN,1,10
+Bad Elmer's Porter,Upland Brewing Company,Porter - American,Porter,5.0,20,Upland Brewing Company Brewpub,Bloomington,IN,United States,39.1734,-86.5376,2.5,2015-10-17 12:25:51,United States,Bloomington,IN,1,10
+Rainbow Road,Fifty West Brewing Company,IPA - Session / India Session Ale,American IPA,3.8,42,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.25,2015-10-20 15:49:59,United States,Cincinnati,OH,2,10
+Maize,Urban Artifact,Lager - Amber,Lager - Amber,5.3,25,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.25,2015-10-20 16:11:18,United States,Cincinnati,OH,2,10
+50 Dalmatians,Old Firehouse Brewery,Pale Ale - American,Pale Ale,5.7,35,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.75,2015-10-20 16:11:24,United States,Williamsburg,OH,2,10
+MosaWit,Blank Slate Brewing Co.,Witbier,Witbier,5.3,35,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.75,2015-10-20 16:12:58,United States,Cincinnati,OH,2,10
+Junior,Ei8ht Ball Brewing,IPA - Session / India Session Ale,American IPA,5.2,40,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.5,2015-10-20 16:57:52,United States,Bellevue,KY,2,10
+Golden Monkey,Victory Brewing Company,Belgian Tripel,Belgian Tripel,9.5,25,Taste Of Belgium - Short Vine,Cincinnati,OH,United States,39.1323,-84.5094,3.25,2015-10-24 13:15:07,United States,Downingtown,PA,2,10
+The Lesser Path,Blank Slate Brewing Co.,IPA - White,American IPA,6.5,70,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.5,2015-10-27 15:19:38,United States,Cincinnati,OH,3,10
+Home Sweet Home,Fifty West Brewing Company,Spiced / Herbed Beer,Spiced / Herbed Beer,6.5,30,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.0,2015-10-27 15:44:03,United States,Cincinnati,OH,3,10
+ShRed,Fifty West Brewing Company,IPA - American,American IPA,7.1,74,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.0,2015-10-27 16:39:17,United States,Cincinnati,OH,3,10
+Pabst Blue Ribbon,Pabst Brewing Company,Lager - North American Adjunct,Lager - North American Adjunct,4.6,10,,,,,,,0.75,2015-10-30 23:21:02,United States,Woodridge,IL,3,10
+Bud Light Platinum,Anheuser-Busch,Lager - American Light,Lager - American Light,6.0,12,,,,,,,1.5,2015-10-30 23:23:59,United States,St. Louis,MO,3,10
+Amber Ale,Mt. Carmel Brewing Company,Red Ale - American Amber / Red,Red Ale,6.0,0,Taste Of Belgium - Short Vine,Cincinnati,OH,United States,39.1323,-84.5094,2.5,2015-10-31 21:09:40,United States,Cincinnati,OH,3,10
+Blonde Ale,Mt. Carmel Brewing Company,Blonde Ale,Blonde Ale,5.5,0,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,2.75,2015-11-03 15:11:47,United States,Cincinnati,OH,4,11
+Spoatieoatiedopaliscious,Fifty West Brewing Company,Pale Ale - American,Pale Ale,6.0,37,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.5,2015-11-03 15:12:33,United States,Cincinnati,OH,4,11
+Imperial IPA With Mango,Mt. Carmel Brewing Company,IPA - Imperial / Double,Imperial IPA,9.0,0,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.75,2015-11-03 15:13:49,United States,Cincinnati,OH,4,11
+Speed Bump,Fifty West Brewing Company,Kölsch,Kölsch,5.25,25,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.25,2015-11-03 16:12:26,United States,Cincinnati,OH,4,11
+Alternate Route,Fifty West Brewing Company,Altbier,Altbier,5.6,35,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.25,2015-11-03 16:19:21,United States,Cincinnati,OH,4,11
+Red Drink,Ei8ht Ball Brewing,Red Ale - Imperial / Double,Red Ale,8.0,0,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.0,2015-11-10 16:14:58,United States,Bellevue,KY,5,11
+Thundersnow,MadTree Brewing Company,Scottish Ale,Scottish Ale,8.5,18,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.75,2015-11-10 16:16:51,United States,Cincinnati,OH,5,11
+Dewhop,MadTree Brewing Company,Pale Ale - American,Pale Ale,5.4,30,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,2.75,2015-11-10 20:08:12,United States,Cincinnati,OH,5,11
+Lemon Basil Blonde,MadTree Brewing Company,Blonde Ale,Blonde Ale,4.6,30,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,2.5,2015-11-10 20:08:46,United States,Cincinnati,OH,5,11
+El Notario,MadTree Brewing Company,Pale Ale - American,Pale Ale,4.6,30,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,3.0,2015-11-10 20:10:27,United States,Cincinnati,OH,5,11
+EspressoSelf,MadTree Brewing Company,Brown Ale - American,Brown Ale,4.9,17,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,2.25,2015-11-10 20:28:56,United States,Cincinnati,OH,5,11
+Gnarly Brown,MadTree Brewing Company,Brown Ale - American,Brown Ale,7.0,32,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,2.25,2015-11-10 20:56:29,United States,Cincinnati,OH,5,11
+Identity Crisis,MadTree Brewing Company,IPA - Black / Cascadian Dark Ale,American Black Ale,6.9,61,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,,2015-11-12 08:38:43,United States,Cincinnati,OH,5,11
+T-Bird Hop Harvest Ale,Christian Moerlein Brewing,Pale Ale - American,Pale Ale,6.8,60,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.75,2015-11-17 16:59:30,United States,Cincinnati,OH,6,11
+Whitsun Ale,Arcadia Brewing Company,Pale Wheat Ale - American,Pale Wheat Ale - American,6.0,17,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,3.25,2015-11-17 17:00:39,United States,Kalamazoo,MI,6,11
+Cheap Date,Arcadia Brewing Company,IPA - Session / India Session Ale,American IPA,4.5,30,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,,2015-11-17 17:04:06,United States,Kalamazoo,MI,6,11
+Windisch-Muhlhauser Dark Lager,Christian Moerlein Brewing,Lager - Euro Dark,Lager - Euro Dark,5.0,0,Christian Moerlein Malt House Taproom,Cincinnati,OH,United States,39.1138,-84.5149,2.75,2015-11-18 22:26:57,United States,Cincinnati,OH,6,11
+M Crown,Christian Moerlein Brewing,Pale Ale - American,Pale Ale,6.5,45,Christian Moerlein Brewery Co,Cincinnati,OH,United States,39.1139,-84.5151,2.75,2015-11-18 22:29:39,United States,Cincinnati,OH,6,11
+Thunder Trail,Arcadia Brewing Company,Extra Special / Strong Bitter,Extra Special / Strong Bitter,6.0,29,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,2.25,2015-11-24 14:19:12,United States,Kalamazoo,MI,7,11
+Experimental DIPA #001,Rhinegeist Brewery,IPA - Imperial / Double,Imperial IPA,8.3,88,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.75,2015-11-24 16:21:20,United States,Cincinnati,OH,7,11
+Vacation Kölsch®,Daredevil Brewing Co,Kölsch,Kölsch,5.0,20,Daredevil Brewing Co.,Speedway,IN,United States,39.7827,-86.2407,3.25,2015-11-27 15:24:38,United States,Speedway,IN,7,11
+Rip Cord Double IPA®,Daredevil Brewing Co,IPA - Imperial / Double,Imperial IPA,9.0,90,Daredevil Brewing Co.,Speedway,IN,United States,39.7827,-86.2407,3.0,2015-11-27 15:25:32,United States,Speedway,IN,7,11
+Carnival Saison™,Daredevil Brewing Co,Saison / Farmhouse Ale,Saison / Farmhouse Ale,8.5,35,Daredevil Brewing Co.,Speedway,IN,United States,39.7827,-86.2407,2.5,2015-11-27 15:26:45,United States,Speedway,IN,7,11
+Lift Off IPA®,Daredevil Brewing Co,IPA - American,American IPA,7.2,72,Daredevil Brewing Co.,Speedway,IN,United States,39.7827,-86.2407,3.5,2015-11-27 15:28:14,United States,Speedway,IN,7,11
+Slip Stream Pale Ale®,Daredevil Brewing Co,Pale Ale - American,Pale Ale,5.5,55,Daredevil Brewing Co.,Speedway,IN,United States,39.7827,-86.2407,3.0,2015-11-27 15:29:53,United States,Speedway,IN,7,11
+Pils,Daredevil Brewing Co,Pilsner - German,Pilsner,5.0,45,Daredevil Brewing Co.,Speedway,IN,United States,39.7827,-86.2407,3.0,2015-11-27 15:30:33,United States,Speedway,IN,7,11
+Muse Belgian Golden Ale™,Daredevil Brewing Co,Belgian Strong Golden Ale,Belgian Strong Golden Ale,8.5,32,Daredevil Brewing Co.,Speedway,IN,United States,39.7827,-86.2407,2.75,2015-11-27 15:31:51,United States,Speedway,IN,7,11
+Oktoberfest,Daredevil Brewing Co,Festbier,Festbier,5.6,28,Daredevil Brewing Co.,Speedway,IN,United States,39.7827,-86.2407,3.0,2015-11-27 15:33:07,United States,Speedway,IN,7,11
+Brickyard,The Tap Brewery,Lager - Vienna,Lager - Vienna,4.8,20,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,3.0,2015-11-27 23:27:50,United States,Bloomington,IN,7,11
+Local Lager,The Tap Brewery,Lager - American Light,Lager - American Light,3.9,11,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,1.5,2015-11-27 23:29:16,United States,Bloomington,IN,7,11
+Too Easy,The Tap Brewery,IPA - Session / India Session Ale,American IPA,3.2,65,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,4.25,2015-11-27 23:31:06,United States,Bloomington,IN,7,11
+Clown Mouth,The Tap Brewery,IPA - American,American IPA,6.4,66,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,3.0,2015-11-27 23:34:08,United States,Bloomington,IN,7,11
+Bionic Dragon,The Tap Brewery,IPA - American,American IPA,6.8,80,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,3.25,2015-11-27 23:38:32,United States,Bloomington,IN,7,11
+Red Rye IPA,The Tap Brewery,IPA - American,American IPA,6.2,80,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,2.5,2015-11-27 23:39:26,United States,Bloomington,IN,7,11
+Yellow Dwarf Wheat,Quaff ON! Brewing Company,Pale Wheat Ale - American,Pale Wheat Ale - American,4.5,15,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,3.5,2015-11-28 00:15:56,United States,Nashville,IN,7,11
+Chinookalicious IPA,The Bier Brewery,IPA - American,American IPA,7.3,75,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,2.0,2015-11-28 00:24:43,United States,Indianapolis,IN,7,11
+Coastbuster,Upland Brewing Company,IPA - Imperial / Double,Imperial IPA,8.5,65,HopCat - Broad Ripple,Indianapolis,IN,United States,39.8695,-86.1462,3.0,2015-11-29 08:48:18,United States,Bloomington,IN,7,11
+PDG Pale,The Bier Brewery,Pale Ale - American,Pale Ale,6.0,44,HopCat - Broad Ripple,Indianapolis,IN,United States,39.8695,-86.1462,3.25,2015-11-29 08:48:49,United States,Indianapolis,IN,7,11
+Green Bullet,Green Flash Brewing Company,IPA - Triple,Imperial IPA,10.1,100,HopCat - Broad Ripple,Indianapolis,IN,United States,39.8695,-86.1462,3.0,2015-11-29 08:49:12,United States,San Diego,CA,7,11
+Rail Splitter IPA,Triton Brewing,IPA - American,American IPA,7.0,70,HopCat - Broad Ripple,Indianapolis,IN,United States,39.8695,-86.1462,2.5,2015-11-29 08:50:06,United States,Indianapolis,IN,7,11
+Superfly IPA,Oaken Barrel Brewing Company,IPA - American,American IPA,7.5,0,HopCat - Broad Ripple,Indianapolis,IN,United States,39.8695,-86.1462,3.0,2015-11-29 08:51:09,United States,Greenwood,IN,7,11
+Hare Trigger IPA,Quaff ON! Brewing Company,IPA - American,American IPA,6.5,75,HopCat - Broad Ripple,Indianapolis,IN,United States,39.8695,-86.1462,3.25,2015-11-29 08:52:15,United States,Nashville,IN,7,11
+Fürst Blood Orange Wheat,Noble Order,Hefeweizen,Hefeweizen,5.6,0,HopCat - Broad Ripple,Indianapolis,IN,United States,39.8695,-86.1462,3.0,2015-11-29 09:00:27,United States,Richmond,IN,7,11
+Tripel de Ripple,Brugge Brasserie,Belgian Tripel,Belgian Tripel,9.8,27,HopCat - Broad Ripple,Indianapolis,IN,United States,39.8695,-86.1462,2.75,2015-11-29 09:03:10,United States,Indianapolis,IN,7,11
+Elusive Double IPA,Listermann Brewing Company,IPA - Imperial / Double,Imperial IPA,8.3,80,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.75,2015-12-01 16:40:41,United States,Cincinnati,OH,8,12
+Bonbonerie Opera Cream Stout,Blank Slate Brewing Co.,Stout - Other,Stout,5.7,30,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.75,2015-12-01 17:03:54,United States,Cincinnati,OH,8,12
+Seersucker Summer Pils,Abita Brewing Company,Pilsner - Other,Pilsner,4.8,35,,,,,,,2.75,2015-12-04 22:47:32,United States,Abita Springs,LA,8,12
+Stiff-Arm IPA,Land-Grant Brewing Company,IPA - American,American IPA,6.4,50,,,,,,,3.75,2015-12-04 23:23:54,United States,Columbus,OH,8,12
+Franz,Rhinegeist Brewery,Märzen,Märzen,5.4,20,,,,,,,3.25,2015-12-04 23:24:41,United States,Cincinnati,OH,8,12
+1810 Oktoberfest,Elevator Brewing Company,Märzen,Märzen,5.9,0,,,,,,,2.0,2015-12-04 23:58:01,United States,Columbus,OH,8,12
+Stone Ruination Double IPA 2.0,Stone Brewing,IPA - Imperial / Double,Imperial IPA,8.5,100,,,,,,,2.0,2015-12-05 00:41:23,United States,Escondido,CA,8,12
+Greenskeeper Session IPA,Land-Grant Brewing Company,IPA - Session / India Session Ale,American IPA,4.7,44,,,,,,,2.75,2015-12-05 00:42:41,United States,Columbus,OH,8,12
+PsycHOPathy,MadTree Brewing Company,IPA - American,American IPA,6.9,60,,,,,,,2.75,2015-12-05 00:44:04,United States,Cincinnati,OH,8,12
+Dad,Rhinegeist Brewery,Red Ale - American Amber / Red,Red Ale,6.0,45,,,,,,,2.75,2015-12-05 00:44:24,United States,Cincinnati,OH,8,12
+Ryesing Up,Blank Slate Brewing Co.,Saison / Farmhouse Ale,Saison / Farmhouse Ale,8.0,27,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.75,2015-12-07 17:10:03,United States,Cincinnati,OH,9,12
+Lil' SIPA,Rivertown Brewery & Barrel House (Ohio),IPA - Session / India Session Ale,American IPA,4.5,55,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.75,2015-12-07 17:11:12,United States,Monroe,OH,9,12
+Bremen St. Hefeweizen,Taft's Brewing Company,Hefeweizen,Hefeweizen,5.8,15,Tafts Ale House,Cincinnati,OH,United States,39.1114,-84.5175,3.25,2015-12-10 23:25:09,United States,Cincinnati,OH,9,12
+Cincinnati Cobra,Taft's Brewing Company,Pale Ale - American,Pale Ale,5.0,36,Tafts Ale House,Cincinnati,OH,United States,39.1114,-84.5175,3.75,2015-12-12 23:31:49,United States,Cincinnati,OH,9,12
+Lift,MadTree Brewing Company,Kölsch,Kölsch,4.7,11,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,3.5,2015-12-17 23:59:47,United States,Cincinnati,OH,10,12
+Castaway IPA,Kona Brewing Company,IPA - American,American IPA,6.0,50,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,2.75,2015-12-18 00:01:01,United States,Kailua Kona,HI,10,12
+Session IPA,Tap Room No. 21 Brewing,IPA - Session / India Session Ale,American IPA,6.3,0,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,2.75,2015-12-18 00:01:48,United States,Novato,CA,10,12
+Gavel Banger,Taft's Brewing Company,IPA - American,American IPA,7.0,65,Tafts Ale House,Cincinnati,OH,United States,39.1114,-84.5175,4.0,2015-12-18 23:50:01,United States,Cincinnati,OH,10,12
+Cougar Bait Blonde,Country Boy Brewing,Blonde Ale,Blonde Ale,5.0,0,Barleycorn's - Lakeside Park,Lakeside Park,KY,United States,39.033,-84.5682,2.75,2015-12-20 23:46:23,United States,Lexington,KY,10,12
+West Sixth IPA,West Sixth Brewing,IPA - American,American IPA,7.0,80,Barleycorn's - Lakeside Park,Lakeside Park,KY,United States,39.033,-84.5682,3.25,2015-12-20 23:47:56,United States,Lexington,KY,10,12
+Smithwick's,Guinness,Red Ale - Irish,Red Ale,4.5,0,,,,,,,2.75,2015-12-22 16:44:28,Ireland,St. James's Gate,Dublin,11,12
+Snowdrift Vanilla Porter,Jacob Leinenkugel Brewing Company,Porter - American,Porter,6.0,16,,,,,,,2.5,2015-12-23 15:40:12,United States,Chippewa Falls,WI,11,12
+Alpha Klaus,3 Floyds Brewing Company,Porter - American,Porter,6.0,39,,,,,,,3.0,2015-12-24 21:14:32,United States,Munster,IN,11,12
+Auburn Lager,Mad Anthony Brewing Company,Lager - American Amber / Red,Lager - American Amber / Red,4.6,21,,,,,,,3.0,2015-12-26 16:37:03,United States,Fort Wayne,IN,11,12
+Fire Rock,Kona Brewing Company,Pale Ale - American,Pale Ale,5.8,35,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,2.75,2015-12-27 00:58:16,United States,Kailua Kona,HI,11,12
+Longboard Island Lager,Kona Brewing Company,Lager - Pale,Lager - Pale,4.6,20,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,3.0,2015-12-27 00:59:31,United States,Kailua Kona,HI,11,12
+Big Wave Golden Ale,Kona Brewing Company,Golden Ale,Golden Ale,4.4,20,Views on Vine,Clifton,OH,United States,39.1325,-84.5096,2.75,2015-12-27 00:59:42,United States,Kailua Kona,HI,11,12
+Squinty Eye,Tap & Screw Brewery,IPA - Red,American IPA,7.8,66,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.0,2016-01-21 16:50:45,United States,Cincinnati,OH,14,13
+Planetary Eclipse,Listermann Brewing Company,IPA - Black / Cascadian Dark Ale,American Black Ale,6.0,70,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.5,2016-01-21 16:51:35,United States,Cincinnati,OH,14,13
+Storm,Braxton Brewing Company,Cream Ale,Cream Ale,4.8,17,Braxton Brewing Company,Covington,KY,United States,39.0831,-84.51100000000001,3.25,2016-01-31 12:51:12,United States,Covington,KY,15,13
+Crowbar,Braxton Brewing Company,IPA - Black / Cascadian Dark Ale,American Black Ale,5.9,132,Braxton Brewing Company,Covington,KY,United States,39.0831,-84.51100000000001,3.25,2016-01-31 13:03:50,United States,Covington,KY,15,13
+Crank Shaft,Braxton Brewing Company,IPA - American,American IPA,6.0,75,Braxton Brewing Company,Covington,KY,United States,39.0831,-84.51100000000001,3.5,2016-01-31 13:58:55,United States,Covington,KY,15,13
+SNAPSHOT SERIES: Imperial IPA,Mt. Carmel Brewing Company,IPA - Imperial / Double,Imperial IPA,8.7,0,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.0,2016-02-11 16:02:15,United States,Cincinnati,OH,17,14
+Jungle Honey,Listermann Brewing Company,IPA - American,American IPA,5.5,40,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.75,2016-02-11 16:02:29,United States,Cincinnati,OH,17,14
+Nefarious Nectar,The Tap Brewery,Blonde Ale - Belgian Blonde / Golden,Blonde Ale,9.2,29,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,3.5,2016-02-26 23:12:39,United States,Bloomington,IN,19,14
+Electric Stinger,The Tap Brewery,Belgian Tripel,Belgian Tripel,9.0,25,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,1.75,2016-02-26 23:13:13,United States,Bloomington,IN,19,14
+Pipes And Plaid,The Tap Brewery,Scotch Ale / Wee Heavy,Scotch Ale / Wee Heavy,7.2,30,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,2.75,2016-02-26 23:14:28,United States,Bloomington,IN,19,14
+221 B Baker Street,The Tap Brewery,English Mild Ale,English Mild Ale,3.8,12,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,2.0,2016-02-26 23:30:34,United States,Bloomington,IN,19,14
+Taptoberfest,The Tap Brewery,Märzen,Märzen,6.5,19,The Tap,Indianapolis,IN,United States,39.7712,-86.1547,3.0,2016-02-26 23:39:57,United States,Bloomington,IN,19,14
+Indians Lager,Sun King Brewing Company,Lager - Vienna,Lager - Vienna,5.5,24,Sun King Fishers Tap Room and Small Batch Brewery,Fishers,IN,United States,39.928000000000004,-86.0242,3.5,2016-03-19 21:06:50,United States,Indianapolis,IN,22,15
+Easy Chair Amber Ale,Upland Brewing Company,Red Ale - American Amber / Red,Red Ale,5.25,22,,,,,,,3.0,2016-03-19 21:07:00,United States,Bloomington,IN,22,15
+Ring of Dingle,Sun King Brewing Company,Stout - Irish Dry,Stout,4.6,34,Sun King Brewery,Indianapolis,IN,United States,39.7691,-86.1451,2.0,2016-03-19 21:09:47,United States,Indianapolis,IN,22,15
+Java Mac,Sun King Brewing Company,Scottish Export Ale,Scottish Export Ale,5.3,23,Sun King Brewery,Indianapolis,IN,United States,39.7691,-86.1451,2.75,2016-03-19 21:10:01,United States,Indianapolis,IN,22,15
+Big Iron,Sun King Brewing Company,Barleywine - English,Barleywine - English,8.3,51,Sun King Brewery,Indianapolis,IN,United States,39.7691,-86.1451,3.0,2016-03-19 21:10:41,United States,Indianapolis,IN,22,15
+Alrye'd Alrye'd Alrye'd,Sun King Brewing Company,Rye IPA,American IPA,6.1,64,Sun King Brewery,Indianapolis,IN,United States,39.7691,-86.1451,3.0,2016-03-19 21:10:55,United States,Indianapolis,IN,22,15
+Campside Session IPA,Upland Brewing Company,IPA - Session / India Session Ale,American IPA,4.5,50,City of Bloomington,,IN,United States,39.1647,-86.535,3.5,2016-03-20 18:28:09,United States,Bloomington,IN,22,15
+RoHoFlo,MadTree Brewing Company,Cream Ale,Cream Ale,4.6,6,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,1.75,2016-04-30 14:31:52,United States,Cincinnati,OH,28,16
+PSA (Proper Session Ale),MadTree Brewing Company,Pale Ale - American,Pale Ale,4.5,30,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,3.5,2016-04-30 14:33:51,United States,Cincinnati,OH,28,16
+Red Chair NWPA,Deschutes Brewery,Pale Ale - American,Pale Ale,6.2,60,,,,,,,3.25,2016-04-30 14:36:34,United States,Bend,OR,28,16
+Radicle Azacca,MadTree Brewing Company,Pale Ale - American,Pale Ale,5.5,22,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,3.5,2016-04-30 14:39:12,United States,Cincinnati,OH,28,16
+Treesearch #3984 Experimental IPA,MadTree Brewing Company,IPA - American,American IPA,6.6,30,MadTree Brewing,Cincinnati,OH,United States,39.1564,-84.42399999999999,2.25,2016-04-30 14:43:09,United States,Cincinnati,OH,28,16
+Orange Avenue Wit,Coronado Brewing Company,Witbier,Witbier,5.2,15,The Local Pacific Beach,San Diego,CA,United States,32.7937,-117.25399999999999,3.0,2016-05-09 21:37:39,United States,San Diego,CA,30,17
+San Diego Pale Ale .394,AleSmith Brewing Company,Pale Ale - American,Pale Ale,6.0,26,The Local Pacific Beach,San Diego,CA,United States,32.7937,-117.25399999999999,4.0,2016-05-09 21:38:42,United States,San Diego,CA,30,17
+Orange Wheat,Hangar 24 Craft Brewing,Pale Wheat Ale - American,Pale Wheat Ale - American,4.6,17,The Local Pacific Beach,San Diego,CA,United States,32.7937,-117.25399999999999,3.0,2016-05-09 22:03:36,United States,Redlands,CA,30,17
+Pineapple Sculpin,Ballast Point Brewing Company,IPA - American,American IPA,7.0,70,Ballast Point Tasting Room & Kitchen - Little Italy,San Diego,CA,United States,32.7276,-117.17,3.5,2016-05-11 14:05:04,United States,San Diego,CA,30,17
+Grunion Pale Ale,Ballast Point Brewing Company,Pale Ale - American,Pale Ale,5.5,50,Ballast Point Tasting Room & Kitchen - Little Italy,San Diego,CA,United States,32.7276,-117.17,3.25,2016-05-11 14:09:49,United States,San Diego,CA,30,17
+Mango Even Keel,Ballast Point Brewing Company,IPA - Session / India Session Ale,American IPA,3.8,40,Ballast Point Tasting Room & Kitchen - Little Italy,San Diego,CA,United States,32.7276,-117.17,3.25,2016-05-11 14:13:38,United States,San Diego,CA,30,17
+Thai Chili Wahoo,Ballast Point Brewing Company,Spiced / Herbed Beer,Spiced / Herbed Beer,4.2,12,,,,,,,1.25,2016-05-11 14:19:16,United States,San Diego,CA,30,17
+Calm Before the Storm Raspberry,Ballast Point Brewing Company,Cream Ale,Cream Ale,5.5,0,Ballast Point Tasting Room & Kitchen - Little Italy,San Diego,CA,United States,32.7276,-117.17,2.75,2016-05-11 14:19:28,United States,San Diego,CA,30,17
+Watermelon Dorado,Ballast Point Brewing Company,IPA - Imperial / Double,Imperial IPA,10.0,90,Ballast Point Tasting Room & Kitchen - Little Italy,San Diego,CA,United States,32.7276,-117.17,3.5,2016-05-11 14:22:43,United States,San Diego,CA,30,17
+All Day IPA,Founders Brewing Co.,IPA - Session / India Session Ale,American IPA,4.7,42,,,,,,,3.5,2016-05-29 13:37:02,United States,Grand Rapids,MI,32,17
+Tropical Pale Ale,Boulevard Brewing Co.,Pale Ale - American,Pale Ale,5.9,45,,,,,,,3.75,2016-05-29 13:37:20,United States,Kansas City,MO,32,17
+Hacker-Pschorr Münchener (Munich) Gold,Hacker-Pschorr,Lager - Dortmunder / Export,Lager - Dortmunder / Export,5.5,0,,,,,,,3.0,2016-05-29 13:38:12,Germany,81249 München,BY,32,17
+Coors Light,Coors Brewing Company,Lager - American Light,Lager - American Light,4.2,10,Indianapolis Motor Speedway,Speedway,IN,United States,39.7898,-86.234,1.0,2016-05-29 13:39:59,United States,Golden,CO,32,17
+Miller Lite,Miller Brewing Company,Pilsner - Other,Pilsner,4.17,10,Indianapolis Motor Speedway,Speedway,IN,United States,39.7898,-86.234,0.5,2016-05-29 13:40:05,United States,Milwaukee,WI,32,17
+Bud Light,Anheuser-Busch,Lager - American Light,Lager - American Light,4.2,27,Indianapolis Motor Speedway,Speedway,IN,United States,39.7898,-86.234,0.5,2016-05-29 13:40:41,United States,St. Louis,MO,32,17
+Georgia Brown,SweetWater Brewing Company ,Brown Ale - American,Brown Ale,5.8,30,,,,,,,2.5,2016-06-02 23:11:09,United States,Atlanta,GA,33,18
+Elderflower,Angry Orchard Cider Company,Cider,Cider,5.0,10,,,,,,,2.75,2016-06-05 21:00:35,United States,Cincinnati,OH,33,18
+Summer Honey,Angry Orchard Cider Company,Cider,Cider,5.0,10,,,,,,,3.25,2016-06-05 21:00:59,United States,Cincinnati,OH,33,18
+Small Batch Hefeweizen One,Sun King Brewing Company,Hefeweizen,Hefeweizen,5.33,15,Sun King Brewery,Indianapolis,IN,United States,39.7691,-86.1451,3.0,2016-06-09 14:50:22,United States,Indianapolis,IN,34,18
+Long Delay IPA,Fifty West Brewing Company,IPA - American,American IPA,6.0,65,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.5,2016-06-11 17:15:24,United States,Cincinnati,OH,34,18
+What She's Having,Wicked Weed Brewing,Rye Beer,Rye Beer,6.3,0,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.75,2016-06-11 17:48:08,United States,Asheville,NC,34,18
+Hop'n Mad Apple,Angry Orchard Cider Company,Cider,Cider,5.0,10,,,,,,,2.5,2016-06-12 21:18:05,United States,Cincinnati,OH,34,18
+420 Extra Pale Ale,SweetWater Brewing Company ,Pale Ale - American,Pale Ale,5.7,41,,,,,,,3.0,2016-06-13 14:12:00,United States,Atlanta,GA,35,18
+Twisted Bit,Braxton Brewing Company,Lager - Dortmunder / Export,Lager - Dortmunder / Export,5.8,30,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.25,2016-06-13 15:50:16,United States,Covington,KY,35,18
+Haven,Braxton Brewing Company,Hefeweizen,Hefeweizen,5.2,10,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,2.75,2016-06-13 16:09:34,United States,Covington,KY,35,18
+Citra High,MadTree Brewing Company,IPA - Imperial / Double,Imperial IPA,9.5,120,The Brass Tap,Cincinnati,OH,United States,39.1284,-84.5173,3.5,2016-06-13 16:09:53,United States,Cincinnati,OH,35,18
+Hop Hash,SweetWater Brewing Company ,IPA - Imperial / Double,Imperial IPA,7.8,100,,,,,,,3.0,2016-06-14 21:48:28,United States,Atlanta,GA,35,18
+Sol Drifter,MadTree Brewing Company,Blonde Ale,Blonde Ale,4.3,13,,,,,,,3.5,2016-06-18 18:10:31,United States,Cincinnati,OH,35,18
+Whiplash White IPA,SweetWater Brewing Company ,IPA - White,American IPA,6.2,55,,,,,,,3.25,2016-06-19 22:24:11,United States,Atlanta,GA,35,18
+My Hammy Weiss,Against the Grain Brewery & Smokehouse,Smoked Beer,Smoked Beer,4.8,12,Against The Grain Brewery & Smokehouse,Louisville,KY,United States,38.2556,-85.744,3.0,2016-06-25 14:19:10,United States,Louisville,KY,36,18
+A Beer,Against the Grain Brewery & Smokehouse,Pale Ale - American,Pale Ale,4.5,42,Against The Grain Brewery & Smokehouse,Louisville,KY,United States,38.2556,-85.744,3.75,2016-06-25 14:19:44,United States,Louisville,KY,36,18
+Bar Baby Blonde Ale,Great Flood Brewing Company,Blonde Ale,Blonde Ale,4.3,23,,,,,,,3.25,2016-06-25 16:22:42,United States,Louisville,KY,36,18
+Summer Ale,Great Flood Brewing Company,Golden Ale,Golden Ale,4.5,0,,,,,,,2.75,2016-06-25 16:29:14,United States,Louisville,KY,36,18
+Find-A-Way IPA,Great Flood Brewing Company,IPA - American,American IPA,7.0,95,,,,,,,2.5,2016-06-25 16:33:39,United States,Louisville,KY,36,18
+Unified Pale Ale,Great Flood Brewing Company,Pale Ale - American,Pale Ale,5.4,28,Against The Grain Brewery & Smokehouse,Louisville,KY,United States,38.2556,-85.744,2.25,2016-06-25 16:42:14,United States,Louisville,KY,36,18
+A Little Crazy,Revolution Brewing Company,Pale Ale - Belgian,Pale Ale,6.8,35,Revolution Brewing Brewpub,Chicago,IL,United States,41.9235,-87.6982,4.0,2016-07-06 15:06:33,United States,Chicago,IL,38,19
+Rosa Hibiscus Ale,Revolution Brewing Company,Spiced / Herbed Beer,Spiced / Herbed Beer,5.8,15,Revolution Brewing Brewpub,Chicago,IL,United States,41.9235,-87.6982,2.75,2016-07-06 15:08:32,United States,Chicago,IL,38,19
+El Hefe Loco,Revolution Brewing Company,Hefeweizen,Hefeweizen,5.0,18,Revolution Brewing Brewpub,Chicago,IL,United States,41.9235,-87.6982,2.75,2016-07-06 15:09:51,United States,Chicago,IL,38,19
+Crystal-Hero,Revolution Brewing Company,IPA - American,American IPA,7.2,75,Revolution Brewing Brewpub,Chicago,IL,United States,41.9235,-87.6982,3.25,2016-07-06 15:11:05,United States,Chicago,IL,38,19
+Citra-Hero,Revolution Brewing Company,IPA - American,American IPA,7.5,85,Revolution Brewing Brewpub,Chicago,IL,United States,41.9235,-87.6982,3.5,2016-07-06 15:11:36,United States,Chicago,IL,38,19
+Rev Pils,Revolution Brewing Company,Pilsner - German,Pilsner,5.5,45,Revolution Brewing Brewpub,Chicago,IL,United States,41.9235,-87.6982,3.75,2016-07-06 15:14:32,United States,Chicago,IL,38,19
+Fist City,Revolution Brewing Company,Pale Ale - American,Pale Ale,5.5,40,Revolution Brewing Brewpub,Chicago,IL,United States,41.9235,-87.6982,2.75,2016-07-06 15:17:51,United States,Chicago,IL,38,19
+Illinois Golden Ale,Revolution Brewing Company,Golden Ale,Golden Ale,6.3,0,,,,,,,2.25,2016-07-06 15:18:05,United States,Chicago,IL,38,19
+Anti-Hero,Revolution Brewing Company,IPA - American,American IPA,6.7,65,Revolution Brewing Brewpub,Chicago,IL,United States,41.9235,-87.6982,2.5,2016-07-06 15:19:32,United States,Chicago,IL,38,19
+Coolcumber,Wicked Weed Brewing,Golden Ale,Golden Ale,5.5,26,Tyler's Restaurant & Taproom,Durham,NC,United States,35.9928,-78.9055,3.75,2016-07-08 16:16:18,United States,Asheville,NC,38,19
+Finga Lickn’ Good,Gigantic Brewing Company,Sour - Ale,Sour,7.79,0,Eli's BBQ,Cincinnati,OH,United States,39.1179,-84.4426,2.25,2016-07-23 20:22:01,United States,Portland,OR,40,19
+Shade,MadTree Brewing Company,Sour - Gose,Sour,4.6,10,Eli's BBQ,Cincinnati,OH,United States,39.1179,-84.4426,2.75,2016-07-23 20:22:21,United States,Cincinnati,OH,40,19
+FC Cincinnati Blood Orange IPA,Christian Moerlein Brewing,IPA - White,American IPA,6.0,47,Eli's BBQ,Cincinnati,OH,United States,39.1179,-84.4426,3.75,2016-07-23 21:34:13,United States,Cincinnati,OH,40,19
+WELD Pear Sour Ale,Tin Man Brewing Company,Sour - Ale,Sour,5.2,12,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,3.25,2016-07-30 17:55:40,United States,Evansville,IN,41,19
+TaxMango,Taxman Brewing Company,Pale Ale - Belgian,Pale Ale,5.0,22,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,3.25,2016-07-30 17:55:41,United States,Bargersville,IN,41,19
+Gumballhead,3 Floyds Brewing Company,Pale Wheat Ale - American,Pale Wheat Ale - American,5.6,35,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,4.0,2016-07-30 17:56:09,United States,Munster,IN,41,19
+Trips,Rhinegeist Brewery,Sour - Ale,Sour,7.5,12,,,,,,,3.5,2016-07-30 17:58:45,United States,Cincinnati,OH,41,19
+Peach Dodo,Rhinegeist Brewery,Sour - Gose,Sour,4.4,12,,,,,,,3.25,2016-07-30 17:59:40,United States,Cincinnati,OH,41,19
+Puma,Rhinegeist Brewery,Pilsner - Other,Pilsner,5.2,40,,,,,,,3.25,2016-07-30 18:00:03,United States,Cincinnati,OH,41,19
+Nice Melons,Rivertown Brewery & Barrel House (Ohio),Sour - Berliner Weisse,Sour,4.0,0,,,,,,,3.25,2016-07-30 18:00:23,United States,Monroe,OH,41,19
+Mama's Little Yella Pils,Oskar Blues Brewery,Pilsner - Czech,Pilsner,5.3,35,,,,,,,3.5,2016-07-30 18:00:57,United States,Longmont,CO,41,19
+Mike Czech,Ei8ht Ball Brewing,Pilsner - Czech,Pilsner,5.7,0,,,,,,,3.0,2016-07-30 18:01:52,United States,Bellevue,KY,41,19
+Exemption,Taxman Brewing Company,Belgian Tripel,Belgian Tripel,8.5,30,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,2.75,2016-07-30 18:13:40,United States,Bargersville,IN,41,19
+Artisan Tears,Central State Brewery,Sour - Ale,Sour,6.66,50,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,3.25,2016-07-30 18:14:11,United States,Indianapolis,IN,41,19
+Wired White IPA,Tin Man Brewing Company,IPA - American,American IPA,6.8,73,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,3.75,2016-07-30 18:17:48,United States,Evansville,IN,41,19
+Grapefruit Hibiscus Spin Off,Taxman Brewing Company,Sour - Ale,Sour,6.0,20,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,3.0,2016-07-30 18:19:05,United States,Bargersville,IN,41,19
+SynTax Wild APA,Tin Man Brewing Company,Pale Ale - American,Pale Ale,5.5,40,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,2.75,2016-07-30 18:31:41,United States,Evansville,IN,41,19
+Sour Pale - Barn Phantom Series,Triton Brewing,Sour - Ale,Sour,6.2,19,Brixx Wood Fired PIZZA,Fishers,IN,United States,39.9569,-86.0175,3.25,2016-07-30 18:45:18,United States,Indianapolis,IN,41,19
+The Bennie,Granite City Food & Brewery,Bock,Bock,5.2,0,Downtown Indianapolis,Indianapolis,IN,United States,39.7652,-86.169,2.5,2016-07-31 17:24:38,United States,Minneapolis,MN,41,19
+The Duke,Granite City Food & Brewery,Pale Ale - English,Pale Ale,5.4,61,Granite City Food & Brewery,Downtown Indianapolis,IN,United States,39.7666,-86.1598,3.75,2016-07-31 17:34:32,United States,Minneapolis,MN,41,19
+Spanish Cedar,Granite City Food & Brewery,IPA - International,American IPA,7.2,0,Granite City Food & Brewery,Downtown Indianapolis,IN,United States,39.7666,-86.1598,2.5,2016-07-31 17:35:58,United States,Minneapolis,MN,41,19
+Lake Street Express,18th Street Brewery,IPA - Session / India Session Ale,American IPA,4.7,0,,,,,,,4.0,2016-08-10 15:31:47,United States,Hammond,IN,43,20
+Damascene Apricot Sour Ale,Tin Man Brewing Company,Sour - Ale,Sour,5.2,12,Indiana State Fairgrounds,Indianapolis,IN,United States,39.8279,-86.135,3.75,2016-08-10 15:33:49,United States,Evansville,IN,43,20
+Summertrip,Braxton Brewing Company,Sour - Berliner Weisse,Sour,4.2,4,Halfcut,Cincinnati,OH,United States,39.1085,-84.5131,4.25,2016-08-13 18:28:05,United States,Covington,KY,43,20
+Labor & Thirst,Taft's Brewing Company,Lager - Dortmunder / Export,Lager - Dortmunder / Export,5.5,25,Halfcut,Cincinnati,OH,United States,39.1085,-84.5131,3.5,2016-08-13 18:28:17,United States,Cincinnati,OH,43,20
+Chester,Rhinegeist Brewery,Saison / Farmhouse Ale,Saison / Farmhouse Ale,6.5,25,Halfcut,Cincinnati,OH,United States,39.1085,-84.5131,2.75,2016-08-13 19:29:08,United States,Cincinnati,OH,43,20
+HopDevil IPA,Victory Brewing Company,IPA - American,American IPA,6.7,50,Halfcut,Cincinnati,OH,United States,39.1085,-84.5131,2.25,2016-08-13 19:30:07,United States,Downingtown,PA,43,20
+My Day,Brasserie Grain d'Orge,Spiced / Herbed Beer,Spiced / Herbed Beer,6.5,0,Naturzentrum Haus Ternell,Eupen,Lüttich,Belgien,50.586000000000006,6.1300099999999995,2.5,2016-08-21 19:18:39,Belgium,Hombourg,Liège,44,20
+THBEER,Brasserie {C},Pale Ale - Belgian,Pale Ale,6.0,20,The Huggy's Bar,Liège,Liège,Belgique,50.6356,5.56773,2.75,2016-08-22 14:19:51,Belgium,Liège,Liège,45,20
+Val-Dieu Blonde,Brasserie de l'Abbaye du Val-Dieu,Blonde Ale - Belgian Blonde / Golden,Blonde Ale,6.0,18,Brasserie Abbaye du Val-Dieu,,,België,50.4924,5.88354,3.0,2016-08-22 14:20:41,Belgium,Aubel,Liège,45,20
+Cuvée Spéciale 800 Ans,Brasserie de l'Abbaye du Val-Dieu,Blonde Ale - Belgian Blonde / Golden,Blonde Ale,5.5,18,Brasserie Abbaye du Val-Dieu,,,België,50.4924,5.88354,4.5,2016-08-22 14:22:08,Belgium,Aubel,Liège,45,20
+Lupulus Blonde,Brasserie Lupulus,Belgian Tripel,Belgian Tripel,8.5,0,Georges Cafe,Verviers,Liège,Belgique,50.5935,5.85985,4.0,2016-08-22 23:44:09,Belgium,Bovigny,Luxembourg,45,20
+Leffe Royale Cascade IPA,Abbaye de Leffe,IPA - Belgian,American IPA,7.5,33,Georges Cafe,Verviers,Liège,Belgique,50.5935,5.85985,3.0,2016-08-22 23:44:23,Belgium,Dinant,Namur,45,20
+La Franchefleur de Franchimont,Brasserie Grain d'Orge,Belgian Blond(e),Belgian Blond(e),6.5,0,Georges Cafe,Verviers,Liège,Belgique,50.5935,5.85985,3.5,2016-08-22 23:44:50,Belgium,Hombourg,Liège,45,20
+Limited Edition No. 1 (2016),Brasserie St-Feuillien,Saison / Farmhouse Ale,Saison / Farmhouse Ale,6.0,38,Georges Cafe,Verviers,Liège,Belgique,50.5935,5.85985,4.0,2016-08-23 01:38:09,Belgium,Le Roeulx,Hainaut,45,20
+IPA Green Killer,Brasserie de Silly,IPA - Belgian,American IPA,6.5,0,Delirium TapHouse,Brussel,Brussels Hoofdstedelijk Gewest,België,50.8485,4.35388,3.5,2016-08-23 15:38:57,Belgium,Silly,Hainaut,45,20
+Gaffel Kölsch,Privatbrauerei Gaffel Becker,Kölsch,Kölsch,4.8,0,Altstadt,Köln,Nordrhein-Westfalen,Deutschland,50.9392,6.957039999999999,3.75,2016-08-25 14:36:38,Germany,Köln,Köln,45,20
+Ginette Natural Triple,Brasserie La Binchoise,Belgian Tripel,Belgian Tripel,9.0,15,,,,,,,3.25,2016-08-25 17:51:49,Belgium,Binche,Hainaut,45,20
+PinPon,Brasserie de la Senne,Pale Ale - Belgian,Pale Ale,5.2,65,Pin Pon,Brussel,Brussels Hoofdstedelijk Gewest,België,50.8368,4.34627,3.25,2016-08-31 16:28:26,Belgium,Ville de Bruxelles,Bruxelles,46,20
+Tripel Karmeliet,Brouwerij Bosteels,Belgian Tripel,Belgian Tripel,8.4,16,Café des Halles Saint-Géry,Brussel,Brussels Hoofdstedelijk Gewest,België,50.848,4.3475,3.25,2016-08-31 18:22:48,Belgium,Buggenhout,Oost-Vlaanderen,46,20
+Triple,Ferme Brasserie de Bertinchamps,Belgian Tripel,Belgian Tripel,8.0,0,,,,,,,3.75,2016-09-01 18:33:33,Belgium,5030 Gembloux,Namur,46,21
+Duvel Tripel Hop #5 - 2015,Duvel Moortgat,Belgian Strong Golden Ale,Belgian Strong Golden Ale,9.5,48,,,,,,,2.75,2016-09-03 21:02:56,Belgium,Puurs,Antwerpen,46,21
+Curtius - La Bière Liégeoise,Brasserie {C},Pale Ale - Belgian,Pale Ale,7.0,18,,,,,,,3.0,2016-09-03 22:01:44,Belgium,Liège,Liège,46,21
+Pauwel Kwak (2015),Brouwerij Bosteels,Belgian Strong Golden Ale,Belgian Strong Golden Ale,8.4,0,Georges Cafe,Verviers,Liège,Belgique,50.5935,5.85985,2.75,2016-09-03 22:11:53,Belgium,Buggenhout,Oost-Vlaanderen,46,21
+Trappistes Rochefort 10,Abbaye Notre-Dame de Saint-Rémy,Belgian Quad,Belgian Quad,11.3,27,,,,,,,2.75,2016-09-03 23:59:17,Belgium,Rochefort,Namur,46,21
+Cruzcampo Pilsen,Cruzcampo (Heineken España),Pilsner - Other,Pilsner,4.8,20,,,,,,,3.25,2016-09-14 23:51:17,Spain,41020 Sevilla,Sevilla,48,21
+Jamonera,Cervezas La Virgen,Red Ale - American Amber / Red,Red Ale,5.0,20,,,,,,,4.25,2016-10-15 19:42:55,Spain,Las Rozas,Madrid,52,22
+Calabaza y Canela (2016),LA SAGRA,Pumpkin / Yam Beer,Pumpkin / Yam Beer,6.1,11,Prosperidad,Madrid,Madrid,España,40.4449,-3.67084,4.25,2016-10-19 19:43:29,Spain,Numancia de la Sagra,Toledo,53,22
+Alemana,Carrefour,Lager - Euro Strong,Lager - Euro Strong,5.8,0,,,,,,,0.25,2016-10-22 13:19:39,France,Levallois-Perret,Hauts-de-Seine,53,22
+Amstel,Amstel Bier,Lager - Euro,Lager - Euro,5.0,21,Olías del Rey,,,España,39.9444,-3.98299,2.25,2016-10-22 14:49:50,Netherlands,Zoeterwoude,Zuid Holland,53,22
+Calabaza,Cervezas La Virgen,Pumpkin / Yam Beer,Pumpkin / Yam Beer,6.8,0,Mercado de San Fernando,Madrid,Madrid,España,40.4077,-3.7036800000000003,3.5,2016-10-29 17:14:22,Spain,Las Rozas,Madrid,54,22
+Valyria,Cervezas Yakka,IPA - White,American IPA,7.7,50,La Tape,Madrid,Madrid,España,40.4289,-3.7059599999999997,4.0,2016-11-10 22:23:10,Spain,30520 Jumilla,Murcia,56,23
+Negra,Cervezas La Virgen,Stout - Oatmeal,Stout,6.5,26,MadrEAT,Madrid,Madrid,España,40.4418,-3.68062,3.0,2016-11-19 16:24:43,Spain,Las Rozas,Madrid,57,23
+Radiance,Moor Beer Company,Golden Ale,Golden Ale,5.0,0,,,,,,,3.75,2016-11-26 22:53:17,England,Bristol,Bristol,58,23
+Val-Dieu Grand Cru,Brasserie de l'Abbaye du Val-Dieu,Belgian Quad,Belgian Quad,10.5,20,Square Ambiorixsquare (Ambiorixsquare),Brussel,Brussels Hoofdstedelijk Gewest,België,50.8469,4.38333,2.75,2016-12-09 02:37:29,Belgium,Aubel,Liège,60,24
+Chimay Blue / Bleue / Blauw (Grande Réserve),Bières de Chimay,Belgian Strong Dark Ale,Belgian Strong Dark Ale,9.0,35,Brussels | Bruxelles | Brussel (Brussel),,,België,50.8479,4.35714,2.75,2016-12-09 02:39:58,Belgium,Baileux,Hainaut,60,24
+Pêche Mel Bush,Brasserie Dubuisson,Fruit Beer,Fruit Beer,8.5,16,Delirium Café,Brussel,Brussels Hoofdstedelijk Gewest,België,50.8485,4.35386,3.5,2016-12-09 20:54:44,Belgium,Pipaix,Hainaut,60,24
+Satan Red,Brouwerij De Block,Belgian Strong Golden Ale,Belgian Strong Golden Ale,8.0,0,Delirium Café,Brussel,Brussels Hoofdstedelijk Gewest,België,50.8485,4.35386,2.5,2016-12-09 20:56:33,Belgium,Merchtem-Peizegem,Vlaams-Brabant,60,24
+Grimbergen Tripel / Triple,Brouwerij Alken-Maes,Belgian Tripel,Belgian Tripel,9.0,0,Square Ambiorixsquare (Ambiorixsquare),Brussel,Brussels Hoofdstedelijk Gewest,België,50.8469,4.38333,2.75,2016-12-09 22:36:57,Belgium,Mechelen,Antwerpen,60,24
+Westmalle Trappist Tripel,Brouwerij der Trappisten van Westmalle,Belgian Tripel,Belgian Tripel,9.5,36,Metro Line 5 (MIVB / STIB) (Metro Lijn 5 (MIVB)),Brussels Hoofdstedelijk Gewest,Brussels Hoofdstedelijk Gewest,België,50.8213,4.40554,2.75,2016-12-09 22:42:07,Belgium,Malle,Antwerpen,60,24
+Brugse Zot,De Halve Maan,Blonde Ale - Belgian Blonde / Golden,Blonde Ale,6.0,23,Home & The City,Brussel,Brussels Hoofdstedelijk Gewest,België,50.8473,4.37575,2.25,2016-12-09 23:37:29,Belgium,Brugge,West-Vlaanderen,60,24
+Ardenne Givrée,Brasserie de Bastogne,Winter Ale,Winter Ale,8.0,0,Georges Cafe,Verviers,Liège,Belgique,50.5935,5.85985,3.5,2016-12-10 22:56:31,Belgium,Vaux-sur-Sûre,Luxembourg,60,24
+Cuvée de Noël,Brasserie St-Feuillien,Belgian Strong Dark Ale,Belgian Strong Dark Ale,9.0,0,Georges Cafe,Verviers,Liège,Belgique,50.5935,5.85985,2.5,2016-12-11 01:05:21,Belgium,Le Roeulx,Hainaut,60,24
+Winter Mess (2016),Brasserie de la Senne,Belgian Strong Dark Ale,Belgian Strong Dark Ale,8.5,0,Georges Cafe,Verviers,Liège,Belgique,50.5935,5.85985,2.75,2016-12-11 01:11:28,Belgium,Ville de Bruxelles,Bruxelles,60,24
+Vesdra,Brasserie Grain d'Orge,Belgian Strong Golden Ale,Belgian Strong Golden Ale,7.5,0,Place General Jacques,,,België,50.5866,5.8592699999999995,2.75,2016-12-11 13:50:41,Belgium,Hombourg,Liège,60,24
+Porter,Founders Brewing Co.,Porter - American,Porter,6.5,45,Kensington Downs,Fort Wayne,IN,United States,41.1007,-85.0413,2.5,2016-12-26 18:08:32,United States,Grand Rapids,MI,63,24
+Vanilla Porter,Breckenridge Brewery,Porter - American,Porter,5.4,16,The Bus Stop,Fort Wayne,IN,United States,41.0978,-85.0367,3.5,2016-12-26 18:09:33,United States,Littleton,CO,63,24
+Breakfast Stout,Founders Brewing Co.,Stout - Oatmeal,Stout,8.3,60,Kreager Park,New Haven,IN,United States,41.0886,-85.0405,3.0,2016-12-26 19:54:12,United States,Grand Rapids,MI,63,24
+2° Below Winter Ale,New Belgium Brewing Company,Winter Ale,Winter Ale,6.6,0,Riordan's Dugout Pub,Pickerington,OH,United States,39.9149,-82.75299999999999,3.25,2016-12-27 19:56:28,United States,Fort Collins,CO,63,24
+Chocolate Chip Cookie Dough Ale,New Belgium Brewing Company,Brown Ale - Other,Brown Ale,6.0,12,North Campus Foodmart,Columbus,OH,United States,40.0118,-83.0103,2.0,2016-12-27 23:54:13,United States,Fort Collins,CO,63,24
+Busted Knuckle Ale,Quaff ON! Brewing Company,Porter - Other,Porter,7.3,27,Old North Columbus Neighborhood,Columbus,OH,United States,40.0152,-83.0104,2.25,2016-12-28 20:51:09,United States,Nashville,IN,63,24
+Imperial Stout,Founders Brewing Co.,Stout - Russian Imperial,Stout,10.5,75,,,,,,,1.75,2016-12-28 22:15:11,United States,Grand Rapids,MI,63,24
+Fresh Squeezed IPA,Deschutes Brewery,IPA - American,American IPA,6.4,60,The Eagle OTR,Cincinnati,OH,United States,39.1107,-84.5154,4.25,2016-12-29 15:26:37,United States,Bend,OR,63,24
+Small Batch Austra,Sun King Brewing Company,Stout - Milk / Sweet,Stout,5.2,27,Sun King Fishers Tap Room and Small Batch Brewery,Fishers,IN,United States,39.928000000000004,-86.0242,2.5,2016-12-30 17:59:14,United States,Indianapolis,IN,63,24
+Fistful Of Hops Red,Sun King Brewing Company,IPA - American,American IPA,6.7,77,Sun King Fishers Tap Room and Small Batch Brewery,Fishers,IN,United States,39.928000000000004,-86.0242,4.25,2016-12-30 17:59:38,United States,Indianapolis,IN,63,24
+Citradelic: Tangerine IPA,New Belgium Brewing Company,IPA - American,American IPA,6.0,50,Steak 'n Shake,Indianapolis,IN,United States,39.9271,-86.0245,4.5,2016-12-30 18:00:14,United States,Fort Collins,CO,63,24
+Grapefruit Sculpin,Ballast Point Brewing Company,IPA - American,American IPA,7.0,70,,,,,,,3.5,2016-12-30 18:01:36,United States,San Diego,CA,63,24
+Coffee Blonde,Four Day Ray Brewing,Blonde Ale,Blonde Ale,4.8,20,Four Day Ray Brewing,Fishers,IN,United States,39.9582,-86.0137,3.25,2016-12-30 18:48:08,United States,Fishers,IN,63,24
+Hobo Series #1,Four Day Ray Brewing,IPA - American,American IPA,6.0,80,Four Day Ray Brewing,Fishers,IN,United States,39.9582,-86.0137,3.5,2016-12-30 18:55:11,United States,Fishers,IN,63,24
+Half Cocked Pale Ale,Four Day Ray Brewing,Pale Ale - American,Pale Ale,5.5,60,,,,,,,2.75,2016-12-30 18:58:37,United States,Fishers,IN,63,24
+Laplander Blonde,Four Day Ray Brewing,Blonde Ale,Blonde Ale,4.8,20,,,,,,,3.0,2016-12-30 19:00:42,United States,Fishers,IN,63,24
+Snow Shed,Four Day Ray Brewing,Brown Ale - American,Brown Ale,6.3,0,Four Day Ray Brewing,Fishers,IN,United States,39.9582,-86.0137,3.75,2016-12-30 19:12:10,United States,Fishers,IN,63,24
+Vanilla Java Porter,Atwater Brewery,Porter - English,Porter,5.0,13,Schenkel's Pool & Spa,Fishers,IN,United States,39.9886,-86.0215,3.0,2016-12-30 21:25:44,United States,Detroit,MI,63,24
+Wells Banana Bread Beer,Charles Wells Brewery (Marston's),Fruit Beer,Fruit Beer,5.2,18,The Apple Store,Fishers,IN,United States,39.9885,-86.0215,2.75,2016-12-30 21:28:16,England,Bedford,Bedfordshire,63,24
+Winter White Ale,Bell's Brewery,Witbier,Witbier,5.0,25,the dead cardinals,Fishers,IN,United States,39.9869,-86.0215,2.0,2016-12-31 19:03:08,United States,Comstock,MI,63,24
+Liberty Ale,Anchor Brewing Company,IPA - American,American IPA,5.9,47,The Garage On Harrison Parkway,Fishers,IN,United States,39.9884,-86.0111,3.25,2016-12-31 19:11:34,United States,San Francisco,CA,63,24
+Yum Yum,3 Floyds Brewing Company,Pale Ale - American,Pale Ale,5.5,55,Summer Break,Fishers,IN,United States,39.9925,-86.0179,3.0,2017-01-01 22:45:29,United States,Munster,IN,115,25
+Pale Ale Citra,Brouwerij Kees,Pale Ale - American,Pale Ale,4.6,52,Irreale,Madrid,Madrid,España,40.4288,-3.70456,4.5,2017-01-09 20:53:52,Netherlands,Middelburg,Zeeland,65,25
+Grapefruit Llipa!,La Quince Brewery,IPA - American,American IPA,6.4,100,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.5,2017-01-09 20:58:01,Spain,Madrid,Madrid,65,25
+Vestkyst,Kinn Bryggeri,IPA - American,American IPA,7.0,100,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.5,2017-01-09 21:31:14,Norway,Florø,Florø,65,25
+Padrino Porter,Edge Brewing Barcelona,Porter - American,Porter,6.9,38,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.0,2017-01-09 21:31:44,Spain,Barcelona,Barcelona,65,25
+Westmalle Trappist Dubbel,Brouwerij der Trappisten van Westmalle,Belgian Dubbel,Belgian Dubbel,7.0,24,Los Grifos,Madrid,Madrid,España,40.4288,-3.7054199999999997,3.75,2017-01-14 20:18:51,Belgium,Malle,Antwerpen,65,25
+Galáctica,Monsieur Gordo Brewery,Sour - Gose,Sour,5.0,0,Los Grifos,Madrid,Madrid,España,40.4288,-3.7054199999999997,3.0,2017-01-14 20:40:27,Spain,Madrid,Madrid,65,25
+India Pale Ale,"Fuller, Smith & Turner ",IPA - English,English IPA,5.3,0,Los Grifos,Madrid,Madrid,España,40.4288,-3.7054199999999997,2.75,2017-01-14 20:52:21,England,London,Greater London,65,25
+942,DouGall's,Pale Ale - American,Pale Ale,4.2,30,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.75,2017-01-14 21:41:59,Spain,39722 Liérganes,Cantabria,65,25
+Hoptimista IPA,Edge Brewing Barcelona,IPA - American,American IPA,6.6,47,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.0,2017-01-14 22:29:15,Spain,Barcelona,Barcelona,65,25
+PMA (Positive Mental Attitude),Moor Beer Company,Pale Ale - American,Pale Ale,5.3,45,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.5,2017-01-23 19:50:39,England,Bristol,Bristol,67,25
+Ostadar,Laugar Brewery,IPA - International,American IPA,6.6,115,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.0,2017-01-23 19:53:31,Spain,Gordexola,Vizcaya,67,25
+Camarillo,Mad Brewing,IPA - American,American IPA,6.2,0,,,,,,,3.5,2017-01-23 20:21:56,Spain,Madrid,Madrid,67,25
+Madrid Lager,Cervezas La Virgen,Lager - Helles,Lager - Helles,5.0,22,Plaza De Clara Del Rey 49,Madrid,Madrid,España,40.4443,-3.67049,3.75,2017-01-29 01:57:42,Spain,Las Rozas,Madrid,67,25
+IPA,Cervezas La Virgen,IPA - International,American IPA,6.5,0,,,,,,,3.5,2017-01-29 17:35:15,Spain,Las Rozas,Madrid,67,25
+Citra Ass Down,Against the Grain Brewery & Smokehouse,IPA - Imperial / Double,Imperial IPA,8.0,68,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-02-01 21:01:39,United States,Louisville,KY,68,26
+De Castañas,Cervezas La Virgen,Winter Ale,Winter Ale,6.5,25,,,,,,,3.0,2017-02-07 22:03:30,Spain,Las Rozas,Madrid,69,26
+Dangerously Close To Stupid,To Øl,IPA - Imperial / Double,Imperial IPA,9.3,100,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.25,2017-02-07 22:24:55,Denmark,København N,Region Hovedstaden,69,26
+Guinness Draught,Guinness,Stout - Irish Dry,Stout,4.2,45,Freeway,Madrid,Madrid,España,40.4255,-3.7019,3.0,2017-02-21 21:06:35,Ireland,St. James's Gate,Dublin,71,26
+Foster's Lager,Foster's Group,Lager - Pale,Lager - Pale,4.0,12,Freeway,Madrid,Madrid,España,40.4255,-3.7019,2.0,2017-02-21 21:20:40,Australia,Abbotsford,VIC,71,26
+Super Ale,SUPERFREUNDE,IPA - American,American IPA,5.9,45,,,,,,,4.25,2017-02-21 21:21:48,Germany,Berlin,Berlin,71,26
+Hütt'n Märzen,Pyraser Landbrauerei,Märzen,Märzen,0.0,0,,,,,,,3.25,2017-02-21 21:22:16,Germany,91177 Thalmässing,BY,71,26
+Cruzial,Cruzcampo (Heineken España),Pilsner - Other,Pilsner,5.9,0,Plaza del Dos de Mayo,Madrid,Madrid,España,40.4269,-3.7040900000000003,2.5,2017-02-25 16:47:23,Spain,41020 Sevilla,Sevilla,71,26
+San Miguel Premium Especial,Grupo Mahou-San Miguel,Lager - Pale,Lager - Pale,5.4,18,Plaza del Dos de Mayo,Madrid,Madrid,España,40.4269,-3.7040900000000003,1.5,2017-02-25 17:08:44,Spain,28045 Madrid,Madrid,71,26
+Estrella Damm,Grupo Damm,Lager - Euro,Lager - Euro,5.4,0,Plaza del Dos de Mayo,Madrid,Madrid,España,40.4269,-3.7040900000000003,2.5,2017-02-25 17:42:18,Spain,Barcelona,Cataluña,71,26
+Fatserie 007 Pineapple Pale Ale,Poppels Bryggeri,Pale Ale - American,Pale Ale,5.3,18,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.25,2017-03-03 22:05:05,Sweden,Jonsered,Västra Götalands län,72,27
+15 Hours Session IPA - Simcoe,La Quince Brewery,IPA - Session / India Session Ale,American IPA,4.8,55,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-03-12 20:43:48,Spain,Madrid,Madrid,73,27
+Alhambra Tradicional,Grupo Cervezas Alhambra,Lager - Euro,Lager - Euro,4.6,0,,,,,,,3.0,2017-03-13 22:13:01,Spain,Granada,Granada,74,27
+Estrella Galicia,Hijos de Rivera,Lager - North American Adjunct,Lager - North American Adjunct,5.5,16,,,,,,,1.0,2017-03-13 23:14:03,Spain,La Coruña,La Coruña,74,27
+Alice 'The Dog' Eats Melanoidin,La Calavera,IPA - American,American IPA,7.6,75,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-03-15 20:23:36,Spain,17500 Ripoll,Gerona,74,27
+Vinification - White Grape Wheat,Magic Rock Brewing,Pale Wheat Ale - American,Pale Wheat Ale - American,6.1,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.0,2017-03-15 20:25:37,England,"Huddersfield, West Yorkshire",HD1 5EB,74,27
+Viento Sur,La Grúa,Pilsner - Other,Pilsner,4.8,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-03-15 21:37:11,Spain,Pontejos,Cantabria,74,27
+Lupuloid,Beavertown,IPA - American,American IPA,6.7,65,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-03-15 21:40:26,England,Tottenham Hale,London,74,27
+Turia Märzen,Grupo Damm,Märzen,Märzen,5.4,0,Tienda Oficial Valencia C.F. - Megastore,Valencia,Comunidad Valenciana,España,39.4691,-0.376608,1.5,2017-03-19 17:01:06,Spain,Barcelona,Cataluña,74,27
+India Pale Ale Citra Ekuanot,The Kernel Brewery,IPA - American,American IPA,7.3,0,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.75,2017-03-23 22:14:37,England,London,London,75,27
+Ayinger Maibock,Ayinger Privatbrauerei,Maibock / Heller (Helles) Bock,Maibock / Heller (Helles) Bock,6.9,30,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.0,2017-03-23 22:18:57,Germany,Aying,Aying,75,27
+Shock Series: !!PA Citra & Galaxy,To Øl,IPA - Imperial / Double,Imperial IPA,9.0,0,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.25,2017-03-23 22:19:47,Denmark,København N,Region Hovedstaden,75,27
+Fat & Fruity,Dry & Bitter Brewing Company,IPA - American,American IPA,6.5,0,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.25,2017-03-23 23:59:21,Denmark,Gørløse,Region Hovedstaden,75,27
+Stonewell Medium Dry Irish Craft Cider,Nohoval Drinks Company Ltd,Cider,Cider,5.5,0,Irreale,Madrid,Madrid,España,40.4288,-3.70456,3.5,2017-03-24 00:00:18,Ireland,Nohoval,Co. Cork,75,27
+Shock Series: !PA Equinox,To Øl,IPA - American,American IPA,7.0,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.0,2017-03-28 23:08:20,Denmark,København N,Region Hovedstaden,76,27
+Mosaic IPA,Amager Bryghus,IPA - American,American IPA,7.0,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,2.75,2017-03-28 23:10:01,Denmark,Kastrup,Kastrup,76,27
+Köstritzer Kellerbier,Köstritzer Schwarzbierbrauerei,Kellerbier / Zwickelbier,Kellerbier / Zwickelbier,5.4,0,Parque de las Siete Tetas,Madrid,Madrid,España,40.3978,-3.6554300000000004,3.0,2017-04-04 19:56:31,Germany,Bad Köstritz,Thüringen,77,28
+La Chouffe,Brasserie d'Achouffe,Belgian Strong Golden Ale,Belgian Strong Golden Ale,8.0,20,Parque de las Siete Tetas,Madrid,Madrid,España,40.3978,-3.6554300000000004,4.25,2017-04-04 20:51:13,Belgium,Achouffe,Luxembourg,77,28
+Surt Til Hibiscus & Cranberry,To Øl,Sour - Ale,Sour,5.0,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.25,2017-04-06 23:58:30,Denmark,København N,Region Hovedstaden,77,28
+Goma 2,Caleya,IPA - American,American IPA,6.3,42,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-04-07 00:53:56,Spain,33993 Rioseco,Asturias,77,28
+1906 Reserva Especial,Hijos de Rivera,Lager - Vienna,Lager - Vienna,6.5,19,Plaza del Dos de Mayo,Madrid,Madrid,España,40.4269,-3.7040900000000003,2.0,2017-04-07 22:14:31,Spain,La Coruña,La Coruña,77,28
+Revontulet,Nómada Brewing Co.,Sour - Ale,Sour,6.7,26,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-04-18 21:57:39,Spain,08201 Sabadell,Barcelona,79,28
+Caribbean Rumstout,Hornbeer,Stout - American Imperial / Double,Stout,10.0,86,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.0,2017-04-18 21:58:28,Denmark,Kirke Hyllinge,Sjælland,79,28
+Happy Otter,DouGall's,Pale Ale - American,Pale Ale,5.6,40,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-04-18 21:58:55,Spain,39722 Liérganes,Cantabria,79,28
+Oakwood Cider,Sheppy's Cider Ltd,Cider,Cider,4.8,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-04-19 22:42:12,England,Bradford-on-Tone,Taunton,79,28
+Mahou Maestra,Grupo Mahou-San Miguel,Lager - Euro Strong,Lager - Euro Strong,7.5,0,Metro Argüelles,Madrid,Madrid,España,40.4304,-3.71593,2.0,2017-04-23 22:26:24,Spain,28045 Madrid,Madrid,79,28
+Keler Lager,Grupo Damm,Lager - Pale,Lager - Pale,4.6,0,Bodegón Gorbea,Vitoria,País Vasco,España,42.8475,-2.67442,3.0,2017-04-29 20:28:01,Spain,Barcelona,Cataluña,80,28
+TopHop,Hornbeer,IPA - Session / India Session Ale,American IPA,4.7,41,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-05-02 20:11:59,Denmark,Kirke Hyllinge,Sjælland,81,29
+India Pale Ale Nelson Sauvin,The Kernel Brewery,IPA - International,American IPA,7.0,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,,2017-05-11 23:31:41,England,London,London,82,29
+360,Cervezas La Virgen,Lager - Pale,Lager - Pale,5.5,35,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-05-11 23:32:50,Spain,Las Rozas,Madrid,82,29
+Califia,Trzech Kumpli,IPA - American,American IPA,7.0,70,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.25,2017-05-11 23:38:32,Poland,Tarnow,Tarnow,82,29
+Gamma Ray,Beavertown,Pale Ale - American,Pale Ale,5.4,45,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-05-14 00:18:01,England,Tottenham Hale,London,82,29
+Hobgoblin Legendary Ruby Beer,Wychwood Brewery,Brown Ale - English,Brown Ale,5.2,32,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.0,2017-05-14 00:36:10,England,Witney,Oxfordshire,82,29
+Imperial Red IPA,Cervezas Arriaca,IPA - Red,American IPA,8.5,99,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,2.75,2017-05-14 00:38:50,Spain,19210 Yunquera de Henares,Guadalajara,82,29
+Cañonera,Cervezas La Virgen,IPA - Session / India Session Ale,American IPA,4.5,70,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.0,2017-05-14 19:47:25,Spain,Las Rozas,Madrid,82,29
+Ægir India Pale Ale,Ægir Bryggeri,IPA - American,American IPA,6.5,65,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.25,2017-05-14 19:48:22,Norway,Flåm,Aurland,82,29
+Horse Piss,La Calavera,Sour - Ale,Sour,4.6,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,2.0,2017-05-14 20:30:42,Spain,17500 Ripoll,Gerona,82,29
+Pan IPAni,Trzech Kumpli,IPA - White,American IPA,6.0,45,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-05-14 21:20:15,Poland,Tarnow,Tarnow,82,29
+Hophorn,Hornbeer,IPA - Imperial / Double Black,Imperial IPA,9.3,118,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.0,2017-05-14 21:22:58,Denmark,Kirke Hyllinge,Sjælland,82,29
+Punk IPA,BrewDog,IPA - American,American IPA,5.6,45,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.0,2017-05-17 21:24:35,Scotland,Ellon,Aberdeenshire,83,29
+Guns &  Hops (Cover Series),Drunken Bros,IPA - Imperial / Double,Imperial IPA,9.0,150,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-05-17 21:38:18,Spain,Getxo - Leioa,Bizkaia,83,29
+Jack The RIPA,Cervesa Guineu,IPA - American,American IPA,7.2,126,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.0,2017-05-24 20:47:09,Spain,08269 Valls de Torroella,Barcelona,84,29
+Papaya Rye,Nómada Brewing Co.,IPA - Imperial / Double,Imperial IPA,9.0,72,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-05-24 21:48:46,Spain,08201 Sabadell,Barcelona,84,29
+Lupulus Hopera,Brasserie Lupulus,Pale Ale - Belgian,Pale Ale,6.0,35,EMT Bus 72,,,España,40.4411,-3.67175,4.5,2017-05-29 23:21:43,Belgium,Bovigny,Luxembourg,85,29
+Brasserie Lion 8,Brasserie Lion,Bière de Champagne / Bière Brut,Bière de Champagne / Bière Brut,8.0,20,Colegio Claret,Madrid,Madrid,España,40.4403,-3.6725199999999996,4.0,2017-05-31 17:35:26,Belgium,Waterloo,Brabant-Wallon,85,29
+Ichiban (Ichiban Shibori),Kirin Brewery Company,Lager - Pale,Lager - Pale,5.0,18,Ramen Kagura,Madrid,Madrid,España,40.4169,-3.70862,3.0,2017-06-03 15:11:17,Japan,Nakano-ku,Tokyo,85,30
+Viento Norte,La Grúa,Pale Ale - Australian,Pale Ale,5.5,40,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.25,2017-06-09 19:01:18,Spain,Pontejos,Cantabria,86,30
+Premium Cider with Mixed Fruit,Kopparbergs Bryggeri,Cider,Cider,4.0,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.25,2017-06-09 19:40:41,Sweden,Kopparberg,Kopparberg,86,30
+Orval,Brasserie d'Orval,Pale Ale - Belgian,Pale Ale,6.2,36,Torres Blancas,Madrid,Madrid,España,40.4396,-3.67214,4.5,2017-06-11 16:42:49,Belgium,Villers-devant-Orval,Luxembourg,86,30
+Fresh,Civil Society Brewing,IPA - New England,American IPA,6.2,0,Boxelder Craft Beer Market,Miami,FL,United States,25.8034,-80.1989,4.25,2017-06-22 18:14:17,United States,Jupiter,FL,88,30
+G&T Gose,Anderson Valley Brewing Company,Sour - Gose,Sour,4.2,0,Boxelder Craft Beer Market,Miami,FL,United States,25.8034,-80.1989,2.75,2017-06-22 18:17:18,United States,Boonville,CA,88,30
+Mandarina IPA,Highland Brewing Company,IPA - American,American IPA,5.0,35,Boxelder Craft Beer Market,Miami,FL,United States,25.8034,-80.1989,3.0,2017-06-22 18:53:05,United States,Asheville,NC,88,30
+Wheat Stroke,Coppertail Brewing Company,Pale Wheat Ale - American,Pale Wheat Ale - American,5.0,0,Boxelder Craft Beer Market,Miami,FL,United States,25.8034,-80.1989,3.5,2017-06-22 18:54:46,United States,Tampa,FL,88,30
+Samuel Adams Hefeweizen,Boston Beer Company,Hefeweizen,Hefeweizen,5.4,14,Publix,Champions Gate,FL,United States,28.2629,-81.6193,3.25,2017-06-23 19:53:44,United States,Boston,MA,88,30
+Samuel Adams Tropic of Yuzu,Boston Beer Company,Pale Wheat Ale - American,Pale Wheat Ale - American,6.0,20,Tijuana Flats,Four Corners,FL,United States,28.2613,-81.6178,3.75,2017-06-23 19:55:16,United States,Boston,MA,88,30
+Samuel Adams Summer Ale,Boston Beer Company,Pale Wheat Ale - American,Pale Wheat Ale - American,5.3,7,Champions Gate Sign,Kissimmee,FL,United States,28.2614,-81.6162,2.75,2017-06-23 20:26:37,United States,Boston,MA,88,30
+Samuel Adams Berliner Weisse,Boston Beer Company,Sour - Berliner Weisse,Sour,4.8,15,Omni Orlando Resort at ChampionsGate,Champions Gate,FL,United States,28.2616,-81.6273,3.5,2017-06-23 20:27:25,United States,Boston,MA,88,30
+Altenmünster Oktoberfest,Allgäuer Brauhaus,Festbier,Festbier,5.5,0,Germany Pavilion,Lake Buena Vista,FL,United States,28.3683,-81.5471,3.75,2017-06-24 18:35:44,Germany,Kempten,Kempten,88,30
+Samuel Adams Golden Hour,Boston Beer Company,Lager - Helles,Lager - Helles,5.0,20,Champions Gate Car Wash,Kissimmee,FL,United States,28.2604,-81.6156,3.25,2017-06-25 12:40:51,United States,Boston,MA,88,30
+Samuel Adams Boston Lager,Boston Beer Company,Lager - Vienna,Lager - Vienna,5.0,30,Publix,Champions Gate,FL,United States,28.2629,-81.6193,2.75,2017-06-25 13:31:01,United States,Boston,MA,88,30
+Tapped Maple,Angry Orchard Cider Company,Cider,Cider,5.0,0,The Electric Chair Barber Shop,Miami,FL,United States,25.7129,-80.4484,2.0,2017-06-26 20:02:11,United States,Cincinnati,OH,89,30
+Traditional Dry,Angry Orchard Cider Company,Cider,Cider,5.5,0,Old World Pizza,Miami,FL,United States,25.713,-80.4487,2.5,2017-06-26 23:01:33,United States,Cincinnati,OH,89,30
+Easy Apple,Angry Orchard Cider Company,Cider,Cider,4.2,10,Eden Lakes Park,Miami,FL,United States,25.7269,-80.4535,3.0,2017-06-26 23:02:09,United States,Cincinnati,OH,89,30
+Green Apple,Angry Orchard Cider Company,Cider,Cider,5.0,10,Old World Pizza,Miami,FL,United States,25.713,-80.4487,3.0,2017-06-27 14:47:28,United States,Cincinnati,OH,89,30
+Stone Dry,Angry Orchard Cider Company,Cider,Cider,5.5,10,Old World Pizza,Miami,FL,United States,25.713,-80.4487,2.75,2017-06-27 16:44:56,United States,Cincinnati,OH,89,30
+Deerfly IPA,Deer Creek Brewery,IPA - American,American IPA,6.8,70,Dillon Disc Golf Course,Noblesville,IN,United States,40.0037,-86.0605,3.5,2017-06-29 19:39:53,United States,Noblesville,IN,89,30
+Nickel Plate,Deer Creek Brewery,Fruit Beer,Fruit Beer,4.8,17,Dillon Disc Golf Course,Noblesville,IN,United States,40.0037,-86.0605,2.75,2017-06-29 19:47:32,United States,Noblesville,IN,89,30
+The Project Series - Idaho #7,Platform Beer Company,Pale Ale - American,Pale Ale,5.1,40,Dewey's Pizza,Grandview Heights,OH,United States,39.9885,-83.0418,4.0,2017-07-01 12:32:16,United States,Cleveland,OH,89,31
+Juicy Watermelon,New Belgium Brewing Company,Fruit Beer,Fruit Beer,5.0,7,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,2.5,2017-07-02 21:35:42,United States,Fort Collins,CO,89,31
+Citradelic: Exotic Lime Ale,New Belgium Brewing Company,Golden Ale,Golden Ale,5.2,21,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.25,2017-07-02 21:38:47,United States,Fort Collins,CO,89,31
+Voodoo Ranger 8 Hop Pale Ale,New Belgium Brewing Company,Pale Ale - American,Pale Ale,5.5,35,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.75,2017-07-02 21:42:29,United States,Fort Collins,CO,89,31
+Fat Tire,New Belgium Brewing Company,Red Ale - American Amber / Red,Red Ale,5.2,22,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.25,2017-07-02 21:47:32,United States,Fort Collins,CO,89,31
+Weeping Willow Wit,Mother Earth Brewing (North Carolina),Witbier,Witbier,5.0,0,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.0,2017-07-03 21:20:18,United States,Kinston,NC,90,31
+Pilot Mountain Pale Ale,Foothills Brewing,Pale Ale - American,Pale Ale,5.5,54,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.75,2017-07-03 21:23:09,United States,Winston-Salem,NC,90,31
+Hoppyum IPA,Foothills Brewing,IPA - American,American IPA,6.25,78,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.25,2017-07-03 21:37:45,United States,Winston-Salem,NC,90,31
+Belgian White,Blue Moon Brewing Company,Witbier,Witbier,5.4,9,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,2.5,2017-07-03 21:54:16,United States,Denver,CO,90,31
+Budweiser,Anheuser-Busch,Lager - North American Adjunct,Lager - North American Adjunct,5.0,12,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,1.5,2017-07-05 19:35:44,United States,St. Louis,MO,90,31
+Traditional Lager,Yuengling Brewery,Lager - American Amber / Red,Lager - American Amber / Red,4.5,16,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,2.0,2017-07-05 19:36:15,United States,Pottsville,PA,90,31
+Summer Honey Wheat,Blue Moon Brewing Company,Pale Wheat Ale - American,Pale Wheat Ale - American,5.2,15,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,2.5,2017-07-06 15:20:11,United States,Denver,CO,90,31
+Swell Rider,D9 Brewing Company,IPA - Session / India Session Ale,American IPA,5.1,0,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.0,2017-07-06 15:21:06,United States,Cornelius,NC,90,31
+Numero Uno Agave Cerveza,Flying Dog Brewery,Lager - Pale,Lager - Pale,4.9,20,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.0,2017-07-06 20:20:26,United States,Frederick,MD,90,31
+Wildflower Witbier,Natty Greene's Brewing Co.,Witbier,Witbier,4.5,0,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.25,2017-07-06 22:11:00,United States,greensboro,NC,90,31
+Snake Dog IPA,Flying Dog Brewery,IPA - American,American IPA,7.1,60,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.75,2017-07-06 23:02:24,United States,Frederick,MD,90,31
+Raging Bitch Belgian IPA,Flying Dog Brewery,IPA - Belgian,American IPA,8.3,60,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,2.75,2017-07-06 23:21:41,United States,Frederick,MD,90,31
+Bloodline Blood Orange Ale,Flying Dog Brewery,IPA - American,American IPA,7.0,40,Ocean Grove,Pine Knoll Shores,NC,United States,34.6912,-76.8506,3.0,2017-07-07 00:03:37,United States,Frederick,MD,90,31
+Highland Pilsner,Highland Brewing Company,Pilsner - German,Pilsner,5.5,35,Clawson's 1905,Beaufort,NC,United States,34.7167,-76.6651,3.0,2017-07-07 18:14:48,United States,Asheville,NC,90,31
+Highland IPA,Highland Brewing Company,IPA - American,American IPA,7.0,70,Clawson's 1905,Beaufort,NC,United States,34.7167,-76.6651,3.75,2017-07-07 18:16:14,United States,Asheville,NC,90,31
+Daycation,Highland Brewing Company,IPA - Session / India Session Ale,American IPA,4.9,40,Clawson's 1905,Beaufort,NC,United States,34.7167,-76.6651,4.0,2017-07-07 18:19:35,United States,Asheville,NC,90,31
+Hawaiian Lounge Juice Extra IPA,Highland Brewing Company,IPA - Imperial / Double,Imperial IPA,8.0,65,Clawson's 1905,Beaufort,NC,United States,34.7167,-76.6651,3.5,2017-07-07 18:21:08,United States,Asheville,NC,90,31
+Gaelic Ale,Highland Brewing Company,Red Ale - American Amber / Red,Red Ale,5.6,30,Clawson's 1905,Beaufort,NC,United States,34.7167,-76.6651,3.0,2017-07-07 18:22:33,United States,Asheville,NC,90,31
+Oatmeal Porter,Highland Brewing Company,Porter - American,Porter,5.9,35,Clawson's 1905,Beaufort,NC,United States,34.7167,-76.6651,2.75,2017-07-07 18:25:04,United States,Asheville,NC,90,31
+Jalapeño Johnson,Gnometown Brewing,IPA - American,American IPA,6.3,0,Gnometown Brewing Co.,Fort Wayne,IN,United States,41.0799,-85.1379,3.0,2017-07-15 14:32:08,United States,Fort Wayne,IN,91,31
+"Stapler, IPA",Gnometown Brewing,IPA - American,American IPA,8.3,72,Gnometown Brewing Co.,Fort Wayne,IN,United States,41.0799,-85.1379,3.75,2017-07-15 14:33:28,United States,Fort Wayne,IN,91,31
+'Merican Gluten Beer,Gnometown Brewing,Hefeweizen,Hefeweizen,4.9,0,Gnometown Brewing Co.,Fort Wayne,IN,United States,41.0799,-85.1379,3.25,2017-07-15 14:35:31,United States,Fort Wayne,IN,91,31
+Small Batch Penny Loafer,Sun King Brewing Company,IPA - American,American IPA,7.0,67,Sun King Fishers Tap Room and Small Batch Brewery,Fishers,IN,United States,39.928000000000004,-86.0242,3.75,2017-07-17 20:04:28,United States,Indianapolis,IN,92,31
+Small Batch Witbier,Sun King Brewing Company,Witbier,Witbier,5.3,12,Sun King Fishers Tap Room and Small Batch Brewery,Fishers,IN,United States,39.928000000000004,-86.0242,3.25,2017-07-17 20:05:06,United States,Indianapolis,IN,92,31
+Pachanga,Sun King Brewing Company,Lager - Pale,Lager - Pale,4.2,24,Sun King Fishers Tap Room and Small Batch Brewery,Fishers,IN,United States,39.928000000000004,-86.0242,3.25,2017-07-17 20:35:05,United States,Indianapolis,IN,92,31
+Green Line Pale Ale,Goose Island Beer Co.,Pale Ale - American,Pale Ale,5.4,30,Pinheads - Alley's Alehouse,Fishers,IN,United States,39.9885,-86.0055,3.5,2017-07-18 20:39:31,United States,Chicago,IL,92,31
+Four Star Pils,Goose Island Beer Co.,Pilsner - Other,Pilsner,5.1,44,Pinheads - Alley's Alehouse,Fishers,IN,United States,39.9885,-86.0055,2.75,2017-07-19 00:34:22,United States,Chicago,IL,92,31
+312 Urban Wheat Ale,Goose Island Beer Co.,Pale Wheat Ale - American,Pale Wheat Ale - American,4.2,18,Pinheads - Alley's Alehouse,Fishers,IN,United States,39.9885,-86.0055,3.0,2017-07-19 01:35:53,United States,Chicago,IL,92,31
+Strawberry Blonde,Quaff ON! Brewing Company,Blonde Ale,Blonde Ale,4.5,20,Brixx Wood Fired Pizza,Fishers,IN,United States,39.9568,-86.0173,3.5,2017-07-19 19:07:31,United States,Nashville,IN,92,31
+Passion Fruit Kicker,Green Flash Brewing Company,Fruit Beer,Fruit Beer,5.5,5,Brixx Wood Fired Pizza,Fishers,IN,United States,39.9568,-86.0173,4.5,2017-07-19 19:08:14,United States,San Diego,CA,92,31
+Six Foot Blonde,Quaff ON! Brewing Company,Blonde Ale,Blonde Ale,4.5,15,Dance Party,,IN,United States,39.9882,-86.0201,2.75,2017-07-19 20:25:24,United States,Nashville,IN,92,31
+GFJ/Grapefruit Jungle,Sun King Brewing Company,IPA - American,American IPA,7.5,77,Sun King Fishers Tap Room and Small Batch Brewery,Fishers,IN,United States,39.928000000000004,-86.0242,3.75,2017-07-21 17:15:19,United States,Indianapolis,IN,92,31
+Petal To the Kettle,Upland Brewing Company,Sour - Ale,Sour,6.0,5,,,,,,,3.0,2017-07-21 19:11:58,United States,Bloomington,IN,92,31
+Workingman's Pilsner,Fountain Square Brewing Company,Pilsner - Other,Pilsner,5.0,25,Fountain Square Brewing Company,Indianapolis,IN,United States,39.7495,-86.1403,3.5,2017-07-22 16:25:53,United States,Indianapolis,IN,92,31
+Preacher's Daughter Amber Ale,Fountain Square Brewing Company,Red Ale - American Amber / Red,Red Ale,5.7,20,Fountain Square Brewing Company,Indianapolis,IN,United States,39.7495,-86.1403,3.0,2017-07-22 16:26:40,United States,Indianapolis,IN,92,31
+Backyard Porter,Fountain Square Brewing Company,Porter - English,Porter,5.2,18,Fountain Square Brewing Company,Indianapolis,IN,United States,39.7495,-86.1403,3.25,2017-07-22 16:28:04,United States,Indianapolis,IN,92,31
+Dank Galaxy Smash,Fountain Square Brewing Company,Pale Ale - American,Pale Ale,6.9,40,Fountain Square Brewing Company,Indianapolis,IN,United States,39.7495,-86.1403,3.5,2017-07-22 16:28:47,United States,Indianapolis,IN,92,31
+Lovely Rita,Fountain Square Brewing Company,Pale Ale - English,Pale Ale,5.0,4,Fountain Square Brewing Company,Indianapolis,IN,United States,39.7495,-86.1403,3.0,2017-07-22 16:30:24,United States,Indianapolis,IN,92,31
+Hop For Teacher Pale Ale,Fountain Square Brewing Company,Pale Ale - American,Pale Ale,6.1,45,Fountain Square Brewing Company,Indianapolis,IN,United States,39.7495,-86.1403,3.0,2017-07-22 16:33:46,United States,Indianapolis,IN,92,31
+Two Lucy's Blackberry Wheat,Thr3e Wise Men Brewing Co.,Fruit Beer,Fruit Beer,6.0,16,Thr3e Wise Men Brewing Co.,Indianapolis,IN,United States,39.8696,-86.1408,3.0,2017-07-22 20:19:38,United States,Indianapolis,IN,92,31
+Golden Zoe,Thr3e Wise Men Brewing Co.,IPA - American,American IPA,6.8,82,Thr3e Wise Men Brewing Co.,Indianapolis,IN,United States,39.8696,-86.1408,3.25,2017-07-22 20:20:53,United States,Indianapolis,IN,92,31
+Hop Nosh Tangerine,Uinta Brewing Company,IPA - American,American IPA,7.3,82,Scotty's Brewhouse,Indianapolis,IN,United States,39.9263,-86.09899999999999,3.75,2017-07-29 14:09:17,United States,Salt Lake City,UT,93,31
+Space Dust IPA,Elysian Brewing Company,IPA - American,American IPA,8.2,62,Scotty's Brewhouse,Indianapolis,IN,United States,39.9263,-86.09899999999999,3.0,2017-07-29 14:09:37,United States,Seattle,WA,93,31
+Zombie Dust,3 Floyds Brewing Company,Pale Ale - American,Pale Ale,6.2,50,,,,,,,4.25,2017-07-30 23:57:17,United States,Munster,IN,93,31
+Wee Mac Scottish-Style Ale,Sun King Brewing Company,Scottish Ale,Scottish Ale,5.3,23,,,,,,,3.25,2017-07-30 23:57:40,United States,Indianapolis,IN,93,31
+Sunlight Cream Ale,Sun King Brewing Company,Cream Ale,Cream Ale,5.3,20,,,,,,,3.25,2017-07-30 23:58:18,United States,Indianapolis,IN,93,31
+Osiris Pale Ale,Sun King Brewing Company,Pale Ale - American,Pale Ale,5.6,50,,,,,,,3.75,2017-07-30 23:58:42,United States,Indianapolis,IN,93,31
+Strawberry Pig,Christian Moerlein Brewing,Cream Ale,Cream Ale,4.9,15,The Pub Crestview Hills,Crestview Hills,KY,United States,39.0252,-84.5787,3.5,2017-08-01 16:32:49,United States,Cincinnati,OH,94,32
+Pub Ale,Boddington's Brewery,English Bitter,English Bitter,4.6,0,The Pub Crestview Hills,Crestview Hills,KY,United States,39.0252,-84.5787,3.25,2017-08-01 16:34:30,England,Shamlesbury,Lancashire,94,32
+Hibiscus Gose,Boulevard Brewing Co.,Sour - Gose,Sour,4.2,11,rhinehaus,Cincinnati,OH,United States,39.1085,-84.5124,3.75,2017-08-02 19:15:42,United States,Kansas City,MO,94,32
+Cidergeist Bubbles,Rhinegeist Brewery,Cider,Cider,6.2,0,rhinehaus,Cincinnati,OH,United States,39.1085,-84.5124,4.25,2017-08-02 19:39:22,United States,Cincinnati,OH,94,32
+Don't Talk Sh!t About Norwood,Listermann Brewing Company,Pale Ale - American,Pale Ale,4.2,31,rhinehaus,Cincinnati,OH,United States,39.1085,-84.5124,3.25,2017-08-02 21:02:48,United States,Cincinnati,OH,94,32
+IPA (India Pale Ale),Arcadia Brewing Company,IPA - American,American IPA,6.0,47,,,,,,,4.25,2017-08-04 22:15:54,United States,Kalamazoo,MI,94,32
+Exeter,Short's Brewing Company,Sour - Ale,Sour,6.5,12,,,,,,,4.25,2017-08-04 23:36:46,United States,Bellaire,MI,94,32
+Bliss Wheat,Arbor Brewing Company Microbrewery,Hefeweizen,Hefeweizen,5.5,15,,,,,,,3.0,2017-08-05 02:11:27,United States,Ypsilanti,MI,94,32
+Darken,Upland Brewing Company,Sour - Flanders Oud Bruin,Sour,9.7,13,Upland Brewing Company Tap House,Carmel,IN,United States,39.9568,-86.1428,1.75,2017-08-05 14:17:54,United States,Bloomington,IN,94,32
+Cherry,Upland Brewing Company,Sour - Ale,Sour,6.0,0,Upland Brewing Company Tap House,Carmel,IN,United States,39.9568,-86.1428,3.5,2017-08-05 14:19:15,United States,Bloomington,IN,94,32
+Intergalactic Jack,Tri City Brewing,Pale Ale - American,Pale Ale,5.5,46,Conner Prairie Headless Horseman,Fishers,IN,United States,39.9886,-86.0216,3.25,2017-08-05 23:43:45,United States,Bay City,MI,94,32
+Saint James Mild Amber Ale,Paw Paw Brewing Company,Red Ale - American Amber / Red,Red Ale,5.1,0,,,,,,,3.0,2017-08-07 00:35:55,United States,Paw Paw,MI,95,32
+Superfuzz Blood Orange Pale,Elysian Brewing Company,Pale Ale - American,Pale Ale,6.4,45,Tom's Donuts,Millgrove Township,IN,United States,41.6989,-85.0484,3.5,2017-08-10 20:38:45,United States,Seattle,WA,95,32
+Ride On IPA,Golden Road Brewing,IPA - American,American IPA,6.4,54,lake james sandbar,Jamestown,IN,United States,41.6994,-85.0267,3.75,2017-08-10 21:45:11,United States,Los Angeles,CA,95,32
+Wolf Pup Session IPA,Golden Road Brewing,IPA - Session / India Session Ale,American IPA,4.5,50,Schenkel's Pool & Spa,Fishers,IN,United States,39.9886,-86.0215,3.25,2017-08-13 22:58:55,United States,Los Angeles,CA,95,32
+Velour Soccer Mom (2017),Sun King Brewing Company,Sour - Ale,Sour,5.5,20,,,,,,,4.25,2017-08-19 23:22:56,United States,Indianapolis,IN,96,32
+Ambar Especial,La Zaragozana,Gluten-Free,Gluten-Free,5.2,0,Piscina Uruguay 10,Getafe,Madrid,España,40.323,-3.7391900000000002,2.5,2017-08-24 00:25:04,Spain,Zaragoza,Zaragoza,97,32
+Grimbergen Dubbel,Brouwerij Alken-Maes,Belgian Dubbel,Belgian Dubbel,6.5,22,Asador de pollos El Bercial,Getafe,Madrid,España,40.321999999999996,-3.73769,2.25,2017-08-24 00:25:43,Belgium,Mechelen,Antwerpen,97,32
+Bang Bang Sour,Bang Bang Brewing,Sour - Ale,Sour,0.0,0,the toast tavern,Madrid,Madrid,España,40.4343,-3.7134199999999997,2.25,2017-08-25 15:14:42,Spain,Madrid,Madrid,97,32
+Hop Reef,GaragArt,IPA - Imperial / Double,Imperial IPA,9.0,100,the toast tavern,Madrid,Madrid,España,40.4343,-3.7134199999999997,3.25,2017-08-25 15:15:42,Spain,Vitoria-Gasteiz,Araba,97,32
+Alhambra Especial,Grupo Cervezas Alhambra,Lager - North American Adjunct,Lager - North American Adjunct,5.4,0,Fartukarte,,,España,43.4683,-5.06597,3.0,2017-08-27 14:22:00,Spain,Granada,Granada,97,32
+Trigo,Deva Cerveza Artesana,Witbier,Witbier,4.8,13,Oktoberfest Fiesta De La Cerveza Artesanal,,,España,40.6662,-3.77339,3.0,2017-09-23 18:05:49,Spain,33875 Tineo,Asturias,101,33
+Saison,Cerveza Artesanal El Cantero,Saison / Farmhouse Ale,Saison / Farmhouse Ale,6.4,0,Oktoberfest Fiesta De La Cerveza Artesanal,,,España,40.6662,-3.77339,3.5,2017-09-23 18:07:24,Spain,30890 Puerto Lumbreras,Murcia,101,33
+Samburiel,Gabarrera,Brown Ale - American,Brown Ale,5.5,39,Oktoberfest Fiesta De La Cerveza Artesanal,,,España,40.6662,-3.77339,3.0,2017-09-23 18:44:13,Spain,Mataelpino,Madrid,101,33
+Tierra De Frontera,Tierra de frontera,Pale Ale - English,Pale Ale,4.5,0,Oktoberfest Fiesta De La Cerveza Artesanal,,,España,40.6662,-3.77339,3.5,2017-09-23 19:36:40,Spain,"23692 Santa Ana, Alcalá la Real",Jaén,101,33
+Rosée d’Hibiscus,Brasserie Dieu du Ciel!,Witbier,Witbier,5.9,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-09-30 19:00:35,Canada,St-Jérôme,QC,102,33
+Gose Limón Kaffir,Casa Bruja Brewing Co.,Sour - Gose,Sour,4.5,5,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-09-30 19:02:20,Panama,Panamá,Panamá,102,33
+VII Tits,CCVK Compañía De Cervezas Del Valle Del Kahs,Pale Ale - American,Pale Ale,5.5,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.25,2017-09-30 20:02:18,Spain,Madrid,Madrid,102,33
+Mad Zitric,Mad Brewing,Pale Ale - American,Pale Ale,5.2,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.25,2017-09-30 20:03:11,Spain,Madrid,Madrid,102,33
+Sagres Branca,Sociedade Central de Cervejas e Bebidas SA,Pilsner - Other,Pilsner,5.0,0,Praça Duque da Terceira (Cais do Sodré),Lisboa,Lisboa,Portugal,38.705999999999996,-9.14355,2.5,2017-10-12 14:04:23,Portugal,2525-244 Vialonga,Lisboa,104,34
+Somersby Apple Cider,Carlsberg Group,Cider,Cider,4.5,0,Noobai Café,Lisboa,Lisboa,Portugal,38.7096,-9.14805,3.5,2017-10-12 19:51:41,Denmark,Copenhagen,Region Hovedstaden,104,34
+Somersby Blackberry,Carlsberg Group,Cider,Cider,4.5,0,Noobai Café,Lisboa,Lisboa,Portugal,38.7096,-9.14805,3.75,2017-10-12 19:52:16,Denmark,Copenhagen,Region Hovedstaden,104,34
+Super Bock,Unicer Bebidas,Lager - Euro,Lager - Euro,5.2,0,,,,,,,2.75,2017-10-14 00:24:30,Portugal,Matosinhos,S. Mamede de Infesta,104,34
+Sagres Preta,Sociedade Central de Cervejas e Bebidas SA,Lager - Dunkel Munich,Lager - Dunkel Munich,4.1,0,Miradouro de Santa Catarina (Adamastor),Lisboa,Lisboa,Portugal,38.7095,-9.14766,2.0,2017-10-14 21:05:42,Portugal,2525-244 Vialonga,Lisboa,104,34
+Somersby Citrus Fruit,Carlsberg Group,Cider,Cider,4.5,0,"Lisboa, Portugal",,,Portugal,38.7095,-9.1487,2.25,2017-10-14 21:14:57,Denmark,Copenhagen,Region Hovedstaden,104,34
+Radeberger Pilsner,Radeberger Gruppe,Pilsner - German,Pilsner,4.8,33,Mercado Municipal de Vallehermoso,Madrid,Madrid,España,40.4341,-3.7083,3.0,2017-11-02 21:37:12,Germany,Frankfurt,Frankfurt,107,35
+The Barista,Clown Shoes,Brown Ale - American,Brown Ale,8.5,60,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-11-11 19:51:32,United States,Ipswich,MA,108,35
+No'rway José,Basqueland Brewing Project,IPA - American,American IPA,7.2,55,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-11-11 19:52:42,Spain,Hernani,Gipuzkoa,108,35
+Premium Cider with Strawberry & Lime,Kopparbergs Bryggeri,Cider,Cider,4.5,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-11-11 19:54:46,Sweden,Kopparberg,Kopparberg,108,35
+Ultramar,Guerrilla Imports,Cider,Cider,6.0,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.0,2017-11-11 19:56:24,Spain,33394 Gijón,Asturias,108,35
+Malasaña Ale ,Fábrica Maravillas,Pale Ale - American,Pale Ale,5.4,45,Fábrica Maravillas,Madrid,Madrid,España,40.4227,-3.7016400000000003,3.25,2017-11-16 21:05:47,Spain,Madrid,Madrid,109,35
+Mahou Clásica,Grupo Mahou-San Miguel,Lager - Pale,Lager - Pale,4.8,0,,,,,,,2.0,2017-11-24 14:41:13,Spain,28045 Madrid,Madrid,110,35
+Mahou Cinco Estrellas,Grupo Mahou-San Miguel,Lager - Pale,Lager - Pale,5.5,0,,,,,,,2.25,2017-11-24 14:45:59,Spain,28045 Madrid,Madrid,110,35
+Mataelefantes Blat IPA,La Vella Caravana,IPA - White,American IPA,6.5,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.5,2017-11-24 20:11:02,Spain,Menàrguens,Lérida,110,35
+Mangö,Clown Shoes,Kölsch,Kölsch,6.0,25,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,4.5,2017-11-24 20:12:29,United States,Ipswich,MA,110,35
+Disobedience,Dry & Bitter Brewing Company,IPA - American,American IPA,6.0,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.75,2017-11-24 20:58:39,Denmark,Gørløse,Region Hovedstaden,110,35
+Little White Cloud Gooseberry Edition,Tempest Brewing Co.,Pale Ale - New Zealand,Pale Ale,3.6,0,Taproom,Madrid,Madrid,España,40.4362,-3.7130400000000003,3.25,2017-11-24 22:04:46,Scotland,Kelso,Scottish Borders,110,35
